@@ -1,0 +1,68 @@
+---
+import Base from "@/layouts/Base.astro";
+import IndexHome from "@/layouts/ScreensReact";
+import { t, changeLanguage } from "i18next";
+
+changeLanguage("en");
+
+export const prerender = true;
+---
+
+<Base meta_title={t("videos.title")!} description={t("videos.description")!}>
+  <div
+    class="container max-w-4xl font-normal prose lg:prose-xl prose-p:pt-3 dark:prose-invert"
+  >
+  
+    <article>
+      <center>
+<p> Coming Soon! 😍</p>
+</center>
+
+      <h1 class="custom-gradient-text text-center">{t("videos.highlight")}</h1>
+      <p set:html={t("videos.intro")}></p>
+      
+      <h3>{t("videos.highQuality")}</h3>
+          <p set:html={t("videos.phighQuality")}></p>
+
+      <h3>{t("videos.friendly")}</h3>
+        <p set:html={t("videos.phfriendly")}></p>
+
+      <h3>{t("videos.required")}</h3>
+        <p set:html={t("videos.prequired")}></p>
+
+     <h3>{t("videos.compatible")}</h3>
+        <p set:html={t("videos.pcompatible")}></p>
+
+ <h2>{t("videos.howtouse")}</h2>
+ <p set:html={t("videos.phowtouse")}></p>
+
+ <ol>
+  <li>{t("videos.1step")}</li>
+  <li>{t("videos.2step")}</li>
+  <li>{t("videos.3step")}</li>
+  <li>{t("videos.4step")}</li>
+</ol>
+  
+      <div>
+        <h2>{t("videos.faq.title")}</h2>
+        {
+          (
+            t("videos.faq.questions", {
+              returnObjects: true,
+            }) as []
+          ).map((answer: any, question) => (
+            <div class="p-2">
+              <div class="collapse bg-base-200 collapse-arrow containeq">
+                <input type="checkbox" class="w-full" aria-label="faq"/>
+                <div class="text-md font-medium collapse-title">
+                  {answer.question}
+                </div>
+                <div class="collapse-content"><p set:html={answer.answer}></p></div>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </article>
+  </div>
+</Base>

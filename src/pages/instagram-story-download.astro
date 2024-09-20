@@ -1,0 +1,104 @@
+---
+import ImageMod from "@/components/ImageMod.astro";
+import Base from "@/layouts/Base.astro";
+import IndexHome from "@/layouts/ScreensReact";
+import HeaderNav from "@/layouts/components/HeaderNav.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import AutoImport from "astro-auto-import";
+import type { Button, Feature } from "@/types";
+import { getEntry } from "astro:content";
+import { FaCheck } from "react-icons/fa";
+import { t, changeLanguage } from "i18next";
+// import { localizePath } from "astro-i18next";
+
+
+
+
+changeLanguage("en");
+
+export const prerender = true;
+
+
+---
+
+<Base meta_title={t("stories.title")!} description={t("stories.description")!}>
+  
+    <HeaderNav/>
+
+   <section class="bg-white dark:bg-gray-900">
+	<div class="container px-4 py-16 xl:p-10">
+		
+			<center>
+			<div class="lg:col-7 md:col-9 mb-8 text-center">
+				<h1 class="text-center" style="font-size:1.75rem; font-weight:500">{t("stories.htitle")}</h1>
+				<p class="mb-8 text-lg" style="font-size:1rem; font-weight:normal">{t("stories.highlight")}</p> 
+			</div>
+			</center>
+
+	<br/>		
+			<div class="row items-center">
+				<div class="mb:md-0 mb-6 md:col-5 md:order-2"> 
+				<img src="/images/instagram-story-download.webp" alt="Instagram Story downloader" decoding="async" width="520" height="480">
+				</div>
+ 
+			<div class="md:col-7 lg:col-6 md:order-1"> 
+				<h2 class="mb-4" style="font-size:1.5rem; font-weight:600"><a href={`/instagram-story-download`}> {t("videos.igstorytitle")}</a></h2> 
+				<p class="mb-8 text-lg" style="font-size:1rem; font-weight:normal">{t("videos.secstory")}</p> 
+				<p class="mb-8 text-lg" style="font-size:1rem; font-weight:normal">{t("videos.secstory2")}</p> 
+			</div>
+
+			</div>
+
+			<br/>
+			<div class="rounded-2xl bg-gradient-to-b from-body to-theme-light px-8 py-8 dark:from-darkmode-body dark:to-darkmode-theme-light">
+	<h2 class="mb-4" style="font-size:1.5rem; font-weight:600"><a href={`/instagram-story-download`}> {t("stories.box-title")}</a></h2> 
+<p class="mb-8 text-lg" style="font-size:0.9rem; font-weight:normal">{t("stories.sectionstory")} <a href="/instagram-story-download" class="font-semibold text-gray-900 underline dark:text-white decoration-indigo-500">{t("stories.link1")}</a>. {t("stories.sectionstory2")}. {t("stories.sectionstory3")} <a href="/instagram-story-download" class="font-semibold text-gray-900 underline dark:text-white decoration-indigo-500">{t("stories.link2")}</a> {t("stories.sectionstory5")}. {t("stories.sectionstory6")} <a href="/instagram-story-download" class="font-semibold text-gray-900 underline dark:text-white decoration-indigo-500">{t("stories.link3")}</a> {t("stories.sectionstory7")}</p>
+</div>
+      </div>
+    
+<div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+  <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
+    <div>
+      <p class="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-teal-900 uppercase rounded-full bg-teal-accent-400">SaveInsta - Best Instagram Story Downloader</p>
+    </div>
+    <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-2xl md:mx-auto">{t("stories.howto")}</h2>
+  </div>
+  <div class="grid gap-8 row-gap-8 lg:grid-cols-3">
+    <div class="sm:text-center">
+      <div class="flex items-center justify-center w-24 h-24 mb-4 text-5xl font-extrabold rounded-full text-deep-purple-accent-400 bg-indigo-50 sm:mx-auto">
+        1
+      </div>
+      <h3 class="mb-2 font-normal text-xl leading-5">{t("stories.howto1")}</h3>
+      <p class="max-w-md mb-3 text-sm text-gray-900 sm:mx-auto">
+        {t("stories.step1")}
+      </p>
+    </div>
+    <div class="sm:text-center">
+      <div class="flex items-center justify-center w-24 h-24 mb-4 text-5xl font-extrabold rounded-full text-deep-purple-accent-400 bg-indigo-50 sm:mx-auto">
+        2
+      </div>
+      <h3 class="mb-2 font-normal text-xl leading-5">{t("stories.howto2")}</h3>
+      <p class="max-w-md mb-3 text-sm text-gray-900 sm:mx-auto">{t("stories.step2")}</p>
+
+      <a href="/instagram-story-download" aria-label="Start Dwonloading" class="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800">Start Dwonloading</a>
+    </div>
+    <div class="sm:text-center">
+	
+
+      <div class="flex items-center justify-center w-24 h-24 mb-4 text-5xl font-extrabold rounded-full text-deep-purple-accent-400 bg-indigo-50 sm:mx-auto">
+        3
+      </div>
+      <h3 class="mb-2 font-normal text-xl leading-5">{t("stories.howto3")}</h3>
+      <p class="max-w-md mb-3 text-sm text-gray-900 sm:mx-auto">{t("stories.step3")}      </p>
+    </div>
+  </div>
+</div>
+
+
+
+        </div>
+		</div>
+    </section>
+
+</Base>
+

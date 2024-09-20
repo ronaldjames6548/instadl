@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @import "base";
+}
+
+@layer components {
+  @import "components";
+  @import "navigation";
+  @import "buttons";
+  @import "search";
+}
+
+@layer utilities {
+  @import "utilities";
+}
+.prose-heading {
+  color: var(--tw-prose-headings);
+  font-weight: 800;
+  font-size: 28px;
+  margin-top: 0;
+  margin-bottom: 1px;
+  line-height: 1.1111111;
+}
+
+custom-size-class {
+  /* Add your custom size styles here */
+  font-size: 21px;
+}
+
+
+
+
+.custom-gradient-text {
+  background: linear-gradient(90deg, #000000, #ffffff);
+  background-size: 200% 100%; /* Adjust the values as needed */
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.brand {
+    color: #2c3e50;
+    font-size: 24px;
+    font-weight: 700;
+    background: linear-gradient(to right, #3f5efb, #fc466b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}

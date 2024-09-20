@@ -1,0 +1,42 @@
+---
+import { changeLanguage } from "i18next";
+import Base from "@/layouts/Base.astro";
+import { getAllTaxonomy, getTaxonomy } from "@/lib/taxonomyParser.astro";
+import { humanize } from "@/lib/utils/textConverter";
+import PageHeader from "@/partials/PageHeader.astro";
+
+changeLanguage("en");
+
+export const prerender = true;
+const BLOG_FOLDER = "blog";
+const tags = await getTaxonomy(BLOG_FOLDER, "tags");
+const allTags = await getAllTaxonomy(BLOG_FOLDER, "tags");
+---
+
+<Base title={"Tags"}>
+  <PageHeader title={"Tags"} />
+  <section class="section">
+    <div class="container text-center">
+      <ul>
+        {
+          tags.map((tag: any) => {
+            const count = allTags.filter((c) => c === tag).length;
+            return (
+              <li class="inline-block m-3">
+                <a
+                  href={`/tags/${tag}`}
+                  class="block px-4 py-2 text-xl rounded bg-theme-light text-dark dark:bg-darkmode-theme-light dark:text-darkmode-dark"
+                >
+                  {humanize(tag)}{" "}
+                  <span class="px-2 ml-2 rounded bg-body dark:bg-darkmode-body">
+                    {count}
+                  </span>
+                </a>
+              </li>
+            );
+          })
+        }
+      </ul>
+    </div>
+  </section>
+</Base>

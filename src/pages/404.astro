@@ -1,0 +1,32 @@
+---
+import { changeLanguage } from "i18next";
+import Base from "@/layouts/Base.astro";
+
+changeLanguage("en");
+
+export const prerender = true;
+---
+
+<Base title="Page Not Found">
+  <section class="text-center section-sm">
+    <div class="container">
+      <div class="justify-center row">
+        <div class="sm:col-10 md:col-8 lg:col-6">
+          <span
+            class="custom-gradient-text text-center"
+          >
+            404
+          </span>
+          <h1 class="mb-4 h2 custom-gradient-text text-center">Page not found</h1>
+          <div class="content">
+            <p>
+              The page you are looking for might have been removed, had its name
+              changed, or is temporarily unavailable.
+            </p>
+          </div>
+          <a href="/" class="mt-8 btn btn-primary ">Back to home</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>
