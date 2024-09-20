@@ -1,0 +1,33 @@
+User-agent: Googlebot
+Allow: /
+
+Disallow: /authors/*
+Disallow: /tags/*
+Disallow: /categories/*
+Disallow: /blog/page/*
+Disallow: /hashtag-generator/
+Disallow: /*/hashtag-generator/
+Disallow: /*/download/
+
+User-agent: Bingbot
+Allow: /
+
+Disallow: /authors/*
+Disallow: /tags/*
+Disallow: /categories/*
+Disallow: /blog/page/*
+Disallow: /hashtag-generator/
+Disallow: /*/hashtag-generator/
+Disallow: /*/download/
+
+User-agent: *
+Allow: /
+Disallow: /authors/*
+Disallow: /tags/*
+Disallow: /categories/*
+Disallow: /blog/page/*
+Disallow: /hashtag-generator/
+Disallow: /*/hashtag-generator/
+Disallow: /*/download/
+
+Sitemap: https://saveinsta.li/sitemap-0.xml

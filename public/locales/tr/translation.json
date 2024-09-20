@@ -1,0 +1,500 @@
+{
+
+ "SiteDetails": {
+    "title": "Saveinsta - Instagram Video, Fotoğraf, Hikaye ve Makaraları İndirin",
+    "description": "Saveinsta, Instagram İndiricisi, Instagram Videosu, Makaraları, Fotoğrafı, Hikayelerini İndirin. Instagram fotoğraf indirme IGTV Online Downloader, Instagram'dan kaydetmek için Instagram hikayesini indirin.",
+
+	 "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "questions": [
+        {
+          "question": "Birinin Instagram hikayesini nasıl indirilir?",
+          "answer": "Cevap: Birinin Instagram hikayesini indirmek çok basittir, yapmanız gereken tek şey profil URL'sini kopyalamak >> <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a> ve URL'yi arama kutusuna yapıştırmak >> İndir düğmesine tıklayın ve işlem tamam.</p>"
+        },
+        {
+          "question": "Birinin eski Instagram hikayelerini görebilir misiniz?",
+          "answer": "Cevap: Hayır, Instagram, kullanıcıların 24 saat sonra kaybolacak olan bir hikaye gönderisinin eski hikayelerini görmelerine yardımcı olabilecek herhangi bir özelliğe sahip değil, ancak kullanıcılar hikayeyi vurgulamaya eklemişlerse görebilirsiniz."
+        },
+        {
+          "question": "Instagram Vurgusunu nasıl indiririm?",
+          "answer": "Cevap: Bir kullanıcının Instagram vurgusunu indirmek için önce vurguyu açın ve URL'yi kopyalayın >> <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a> ziyaret edin >> URL'yi arama kutusuna yapıştırın ve indir düğmesine tıklayın."
+        },
+        {
+          "question": "En iyi trend hikayesini nasıl oluşturabilirim?",
+          "answer": "Cevap: Trend hikaye oluşturmak, Instagram trendlerinde neler olduğunu bilmek gibi her zaman güncel kalmak gerektirir."
+        }
+      ]
+    },
+    "conclusion": "hi"
+  },
+
+	 
+  "stories": {
+     "title": "SaveInsta - Instagram Story Saver - Instagram Story ve Highlight İndirici",
+     "description": "SaveInsta - Instagram Story Saver - Instagram Story and Highlight Downloader, tek tıklamayla Instagram'dan hikayeler indirmenize yardımcı olur. Instagram hikayesini indirmek için en iyi çevrimiçi araç. Story Instagram'dan yüksek kaliteli fotoğraf ve videolar indirin.",
+     "htitle": "Instagram Story İndir - Instagram Story Saver",
+     "highlight": "Instagram Hikayelerini ve Öne Çıkanları İndir",
+     "box-title": "SaveInsta ile Instagram hikaye indirme",
+
+
+     "heading": "SaveInsta Instagram indiricisinin tüm özellikleri",
+     "support": "SaveInsta, Instagram videolarını, makara fotoğraflarını ve hikayelerini indirmek için tümünü destekler",
+     "igDown": "Instagram video indiricisi",
+     "link1": "Instagram hikaye indiricisi",
+     "link2": "Instagram Hikayesini İndir",
+     "link3": "insta hikaye indir",
+     "sectionstory": "SaveInsta.li en iyisidir",
+     "sectionstory2": "Kullanımı basittir ve yüksek kaliteli Instagram hikayelerini indirmenize olanak tanır.",
+     "sectionstory3": "Aklıma Ne Zaman Geliyor, Nasıl Yapılır ",
+     "sectionstory4": "SaveInsta.li en iyisidir",
+     "sectionstory5": "telefonunuza mı? SaveInsta.li, Instagram Story'yi tamamen ücretsiz indirmeyi destekleyen en iyi araçtır. ",
+     "sectionstory6": "Instagram hikayelerini SaveInsta ile indirme, ",
+     "sectionstory7": "anılarınızı korumanın, sevdiklerinizle paylaşmanın veya onları kaybetmediğinizden emin olmanın mükemmel bir yoludur.",
+     "howto": "SaveInsta.li ile Instagram Hikayeleri Kolayca Nasıl İndirilir",
+     "howto1": "Hikaye URL'sini kopyalayın",
+     "howto2": "SaveInsta'yı aç",
+     "howto3": "IG Hikayesini İndir",
+     "adım1": "İndirmek istediğiniz Instagram Hikayesini açın. Devam etmek için cihazınıza göre (⋯) veya (⋮) sembolünü seçin. Hikayenin URL'sini kopyalamak için açılır menüye gidin ve Bağlantıyı Kopyala'ya tıklayın." ,
+     "step2": "SaveInsta'ya gidin ve kopyalanan URL'yi yapıştırmak için Hikaye bölümünü seçin. URL'yi yapıştırdıktan sonra İNDİR düğmesine tıklayın",
+     "step3": "İNDİR butonuna tıkladıktan sonra Hikaye cihazınıza kaydedilecektir. Cihazınıza bağlı olarak Hikaye dosyası İndirilenler klasörüne veya İndirilenler Galerisi'ne kaydedilecektir.",
+ 
+
+     "howtouse":"Instagram Hikayesi Nasıl İndirilir",
+     "phowtouse":"Bu Hikaye Tasarrufu çevrimiçi aracını kullanarak birinin Instagram hikayesini indirmek, yapabileceğiniz en kolay şeylerden biridir. Tek yapmanız gereken, hikaye bağlantısını buraya getirip araca yapıştırmak ve hikayeyi sadece birkaç tıklamayla almak." ,
+
+
+     "1step":"İndirilmesi gereken hikayeyi açın >> paylaş butonuna tıklayın.",
+     "2step":"Bağlantıyı kopyala düğmesine tıklayın ve bağlantıyı panoya kopyalayın.",
+     "3step":"Daha sonra burayı ziyaret edin ve URL'yi arama kutusuna yapıştırın ve >> İndir'e tıklayın.",
+     "4step":"İşte indirme işleminiz başlayacak.",
+
+
+
+
+
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "questions": [
+        {
+          "question": "Birinin Instagram hikayesini nasıl indirilir?",
+          "answer": "Cevap: Birinin Instagram hikayesini indirmek çok basittir, yapmanız gereken tek şey profil URL'sini kopyalamak >> <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a> ve URL'yi arama kutusuna yapıştırmak >> İndir düğmesine tıklayın ve işlem tamam.</p>"
+        },
+        {
+          "question": "Birinin eski Instagram hikayelerini görebilir misiniz?",
+          "answer": "Cevap: Hayır, Instagram, kullanıcıların 24 saat sonra kaybolacak olan bir hikaye gönderisinin eski hikayelerini görmelerine yardımcı olabilecek herhangi bir özelliğe sahip değil, ancak kullanıcılar hikayeyi vurgulamaya eklemişlerse görebilirsiniz."
+        },
+        {
+          "question": "Instagram Vurgusunu nasıl indiririm?",
+          "answer": "Cevap: Bir kullanıcının Instagram vurgusunu indirmek için önce vurguyu açın ve URL'yi kopyalayın >> <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a> ziyaret edin >> URL'yi arama kutusuna yapıştırın ve indir düğmesine tıklayın."
+        },
+        {
+          "question": "En iyi trend hikayesini nasıl oluşturabilirim?",
+          "answer": "Cevap: Trend hikaye oluşturmak, Instagram trendlerinde neler olduğunu bilmek gibi her zaman güncel kalmak gerektirir."
+        }
+      ]
+    },
+    "conclusion": "hi"
+  },
+
+
+
+
+
+
+
+
+
+
+
+  "videos": {
+    "title": "SaveInsta - Instagram Video İndirici",
+         "support": "Instagram videosunu, Fotoğrafını, Makaralarını, Hikayelerini, IGTV'yi çevrimiçi indir",
+         "description": "Saveinsta Instagram İndiricisidir, Instagram Video, Makara, Fotoğraf, Hikaye İndir. Instagram fotoğraf indir IGTV Çevrimiçi İndirici, Instagram'dan kaydetmek için Instagram hikayesini indir.",
+   
+"igvDown": "Instagram Video İndirme",
+"secVideo": "Saveinsta, çevrimiçi olarak ücretsiz olarak indirilebilen bir Instagram videosudur. SaveInsta, Hızlı bir Instagram video indiricisidir. Instagram video indirme, yalnızca birkaç tıklamayla indirmenize yardımcı olur.",
+         "secVideo2": "Bu, Instagram'ı indirmek için %100 ücretsiz bir araçtır. SaveInsta, instagramdan video indirmenin en iyi ve kolay yoludur. Instagram'dan bir video indirmek için sadece indirmek istediğiniz videonun bir bağlantısına sahip olursunuz ve ardından bu video bağlantısını Instagram video indiricisine yapıştırın.",
+    
+"igphtitle": "Instagram Fotoğraf İndirici",
+"secPhoto": "Saveinsta, instagram fotoğraflarını indirmek için en iyisidir. Bu hızlı instagram fotoğraf indiricisi, ig fotoğraf indiricisi, kullanıcının instagram fotoğraflarını herhangi bir zorluk yaşamadan Instagram'dan kaydetmesine olanak tanır. Instagram fotoğrafını tek gönderi görseli olarak da indirebilir, aynı zamanda birden fazla Instagram fotoğrafını da indirebilirsiniz. ",
+         "secPhoto2": "SaveInsta Basit ve kullanıcı dostudur, Instagram fotoğrafını kaydetmenize yardımcı olur. Instagram fotoğraf indiricisi, Instagram'daki fotoğrafları çevrimiçi olarak yüksek kalitede çözünürlükte indirmenize ve bunları çevrimdışı kullanım için kaydetmenize olanak tanır.",
+    
+"igreeltitle": "Instagram Reels'i İndir",
+"secreel": "SaveInsta, HD Instagram reels'i indirmek için ücretsiz ve hızlı bir araçtır. Bu Instagram reels indiricisi, reels videolarını MP4 yüksek kalitede cihazınıza kolayca kaydetmenize olanak tanır. Instagram reels indiricisi herkes için ücretsiz çalışır ve istediğiniz kadar reels indirebilirsiniz dilediğiniz gibi videolar.",
+         "secreel2": "Instagram Reel videoları SaveInsta kullanılarak çevrimiçi olarak indirilebilir ve daha sonra kullanılmak üzere kaydedilebilir. To The Instagram Reels Downloader, herhangi bir yazılım yüklemeden yüksek kaliteli Instagram videolarını indirmek için denenmiş ve doğru bir çözümdür.",
+   
+"igstorytitle": "Instagram Story İndir",
+
+"secstory": "Saveinsta, kullanımı basit olduğundan ve yüksek kaliteli Instagram hikayelerini hızlı bir şekilde indirmenize olanak tanıdığından en iyi Instagram hikaye indiricisidir.",
+         "secstory2": "Telefonunuz, PC'niz veya tabletiniz için yüksek kaliteli Instagram Story indiricisi. Instagram video indiricimize erişmek için tarayıcınızı kullanın. Ekstra bir yazılım yüklenmesine gerek yoktur.",
+
+"snapInfotitle": "SaveInsta - EN İYİ INSTAGRAM İNDİRME ARACI",
+"texpg": "SaveInsta, web için kullanabileceğiniz araçtır ",
+"link3": "Instagram videolarını indir",
+"texg1": " ücretsiz bir araçtır ",
+"link2": "Instagram Fotoğraflarını İndir",
+"texg1sec": "IGTV İndiricimiz bunu yapmanın hızlı bir yoludur",
+"toptext": "Instagram fotoğraf indiricisi SaveInsta, favori Instagram fotoğraflarınızı kaydetmenizi ve yedeklemenizi kolaylaştırır. Instagram fotoğraflarını indirmek için Saveinsta en iyi ve hızlıdır",
+"link8": "Instagram video indiricisi",
+"toptext2": "IG fotoğraf indiricisi, kullanıcıların herhangi bir zorluk yaşamadan Instagram fotoğraflarını Instagram'dan kaydetmelerine olanak tanır. Instagram fotoğrafını tek gönderi görseli olarak indirebileceğiniz gibi birden fazla Instagram fotoğrafı da indirebilirsiniz.",
+
+	
+	"howtotop": "SaveInsta - Instagram İndirici",
+"howto": "SaveInsta Instagram Downloader ile IG'den nasıl tasarruf edilir",
+"howtonote": "Not: ",
+         "how2note": "İndireceğiniz Instagram videosu veya fotoğrafı herkese açık bir Instagram hesabından olmalıdır.",
+    
+"howtouse": "Video bağlantısını al",
+         "1step":"Instagram Videosunu İndirmek istediğiniz videonun URL'sini kopyalayın.",
+
+"howto2": "Saveinta'yı aç",
+         "2step":"Kopyalanan dosyayı yukarıdaki Saveinsta - Instagram indirici metin kutusuna yapıştırın.",
+
+"howto3": "İndir'e Tıklamanız Yeterli",
+         "3step":"Video otomatik olarak senkronize edilecektir. Instagram Videosunu indirmek için İndir butonuna tıklayın.",
+
+         "snapInfotext": "SaveInsta, Instagram'dan saniyeler içinde yüksek kaliteli içerik çıkarmak için tasarlanmış güçlü bir Instagram indiricisidir. Instagram materyallerini indirmenin en iyi yaklaşımı, SaveInsta indiricisi gibi üçüncü taraf hizmetleri kullanmaktır.",
+         "snapInfotext2": "Instagram'da her gün milyonlarca fotoğraf paylaşılıyor. Bu da onu dünyanın en popüler resim uygulaması yapıyor. Kesinlikle saklamanız gereken fotoğrafları sık sık karşınıza çıkarıyorsunuz. Ve artık bir Instagram video indiricisine ihtiyacınız var. ",
+
+         "howtotop": "SaveInsta - Instagram İndirici",
+         "tos": "SaveInsta, kendi hesabınıza yüklenen Instagram videolarını ve görsellerini indirmenize izin verecek şekilde tasarlanmıştır. Araçlarımızı başkalarının gizlilik veya maddi haklarını ihlal edecek şekilde kullanırsanız hizmeti reddetme hakkımızı saklı tutarız.",
+         "faqh": "Sıkça Sorulan Sorular",
+         "faqh1": "Instagram videolarını Hızlı, kolay ve güvenli İndirin.",
+         "faqq1": "Instagram video indiricisi nedir?",
+         "faqa1": "Çevrimiçi bir araçtır; Instagram videolarını, fotoğraflarını ve IGTV videolarını indirmenize yardımcı olur. Daha sonra kullanmanız gerekebilir diye. SaveInsta, Instagram'dan indirmek için en iyi araçtır.",
+         "faqq2": "Instagram hesabınızla giriş yapmanız gerekiyor mu?",
+         "faqa2": "Hayır, hesabınıza giriş yapmanıza gerek yok; SaveInsta sizden herhangi bir bilgi istemez, Instagram'dan güvenli ve gizli bir şekilde herhangi bir şey indirmenize olanak tanır.",
+         "faqq3": "Videoları doğrudan Instagram'a kaydetmek mümkün mü?",
+         "faqa3": "Instagram, akışınızdan veya diğer kullanıcıların hikayelerinden video indirmenize izin vermiyor. Neyse ki, zaten bize sahipsiniz; sadece SaveInsta web sitemizi ziyaret edin ve talimatları izleyin.",
+         "faqq4": "Web sitesi Instagram fotoğraflarını bilgisayarınıza kaydetmenize izin veriyor mu?",
+         "faqa4": "Tabii ki Instagram Videolarını, resimlerini, hikayelerini hızlı bir şekilde PC'nizden indirebilir ve kaydırabilirsiniz.",
+
+	  
+        "link1": "Instagram video indirme",
+         "link4": "Instagram makaralarını indir",
+         "link5": "Instagram Story'yi bağlantıyla indir",
+         "link6": "Instagram Hikayelerini İndir",
+         "link7": "Instagram hikaye indiricisi",
+
+         "texpgsec": "Birkaç basit adımla Instagram'dan görseller, hikayeler, makaralar ve IGTV.",
+         "texg2": "SaveInsta Instagram indiricisi şunları yapmanıza yardımcı olur ",
+         "texpg2sec": "İzlemekten keyif aldınız mı? Tamamen ücretsiz ve anonim bir Instagram Video İndiricisine mi ihtiyacınız var? O halde doğru web sitesindesiniz.",
+         "texpg3": "Web sitemiz Saveinsta an",
+         "texpg3sec": " Instagram Hikayesini link üzerinden indirmenize olanak sağlar. Sistemimizi kullanmanın tamamen güvenli ve güvenli olduğunu garanti ederiz. Bu hizmeti hikayeleri görüntülemek veya bilgileri bilgisayarınıza, cep telefonunuza, tabletinize veya bilgisayarınıza saklamak için kullanabilirsiniz. diğer cihaz.",
+
+          "footertitle": "Instagram Makaralarını, Videolarını, Fotoğraflarını ve Hikayelerini İndirmek için Güçlü Araçlar",
+         "footertext":"Instagram İndirici, Instagram Makaralarını, Video, Fotoğraf, Hikayeleri İndirin ve Instagram makaralarını, fotoğraflarını, videolarını ve hikayelerini indirmek için IGTV Çevrimiçi İndiricisini indirin.",
+        "footercopyright1": "© Copyright 2024",
+        "footercopyrightsi": "SaveInsta.",
+        "footercopyright2": "All rights reserved.",
+
+	      "metaff": "We are not affiliated with Instagram or Meta.",
+
+
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "questions": [
+        {
+          "question": "Instagram için ücretsiz hashtag nasıl oluşturulur?",
+          "answer": "Cevap: Instagram gönderileriniz için ücretsiz hashtag oluşturmak için <a href='/hashtag-generator' style='color: blue;'>Instagram hashtag Oluşturucu</a> web aracını <a href='/' style='color: blue;'>saveinsta.li</a> kullanabilirsiniz, bu da Instagram için ücretsiz hashtag oluşturmanıza izin verir."
+        },
+        {
+          "question": "Hashtag nasıl oluşturulur?",
+          "answer": "Cevap: Buradaki Instagram Hashtag oluşturucusu, Instagram'da şu anda popüler olan hashtagleri belirli bir anahtar kelimeyle ilgili olarak üretir."
+        },
+        {
+          "question": "Hashtag oluşturucular çalışır mı?",
+          "answer": "Cevap: Evet, tabii ki çalışır, hepsi sizin ne tür hashtagler oluşturmak istediğinize bağlıdır. Ve Instagram gönderilerindeki hashtagler her zaman daha iyi bir erişim için yardımcı olur. <a href='https://saveinsta.li/blog/using-guide-instagram-hashtags' style='color: blue;'>Instagram gönderileri için Hashtag'leri Kullanmak</a>, çünkü kullanıcılara ve Instagram algoritmasına ne yayınladığınızı ve belirli kullanıcılara göstermek için ne olduğunu bildirir."
+        }
+      ]
+    },
+    "conclusion": "hi"
+  }
+,
+
+
+
+
+
+
+
+
+"reels": {
+  "title": "Insta'yı Kaydet - Instagram Reels Video İndirme - Instagram İndirici",
+     "description": "Instagram Reels İndir, Reels İndirici, Instagram'dan video Reels indir, Instagram Reel Downloader, tüm cihazlar için hızlı ve ücretsiz reels video indiricisidir.",
+     "igrDown": "Instagram Reels Video İndirici",
+     "igphDtitle": "Instagram Reels videolarını hızlı ve kolay bir şekilde indirin!",
+     "igreeltitle": "Instagram Hikaye İndirici",
+     "secVideo": "Saveinsta, çevrimiçi olarak ücretsiz olarak indirilebilen bir Instagram videosudur. SaveInsta, Hızlı bir Instagram video indiricisidir. Instagram video indirme, yalnızca birkaç tıklamayla indirmenize yardımcı olur.",
+     "secPhoto": "Instagram fotoğrafları indirmek için en iyisi Saveinsta'dır. Bu hızlı instagram fotoğraf indiricisi, ig fotoğraf indiricisi, kullanıcının instagram fotoğraflarını herhangi bir zorluk yaşamadan Instagram'dan kaydetmesine olanak tanır. Instagram fotoğraflarını tek gönderi görseli olarak da indirebilir, aynı zamanda birden fazla Instagram fotoğrafı da indirebilirsiniz" ,
+     "secreel": "Instagram fotoğraflarını indirmek için en iyisi Saveinsta'dır. Bu hızlı instagram fotoğraf indiricisi, ig fotoğraf indiricisi, kullanıcının instagram fotoğraflarını herhangi bir zorluk yaşamadan Instagram'dan kaydetmesine olanak tanır. Instagram fotoğraflarını tek gönderi görseli olarak da indirebilir, aynı zamanda birden fazla Instagram fotoğrafı da indirebilirsiniz" ,
+     "secstory": "Instagram fotoğraflarını indirmek için en iyisi Saveinsta'dır. Bu hızlı instagram fotoğraf indiricisi, ig fotoğraf indiricisi, kullanıcının instagram fotoğraflarını herhangi bir zorluk yaşamadan Instagram'dan kaydetmesine olanak tanır. Instagram fotoğraflarını tek gönderi görseli olarak da indirebilir, aynı zamanda birden fazla Instagram fotoğrafı da indirebilirsiniz" ,
+     "snapInfotitle": "SaveInsta - EN İYİ INSTAGRAM REELS İNDİRME ARACI",
+     "snapInfotext": "SaveInsta, Instagram'dan saniyeler içinde yüksek kaliteli içerik çıkarmak için tasarlanmış güçlü bir Instagram indiricisidir. Instagram materyallerini indirmenin en iyi yaklaşımı, SaveInsta indiricisi gibi üçüncü taraf hizmetleri kullanmaktır.",
+     "snapInfotext2": "Instagram'da her gün milyonlarca fotoğraf paylaşılıyor. Bu da onu dünyanın en popüler resim uygulaması yapıyor. Kesinlikle saklamanız gereken fotoğrafları sık sık karşınıza çıkarıyorsunuz. Ve artık bir Instagram video indiricisine ihtiyacınız var. ",
+   
+     "reelsec1": "Instagram Reels Downloader by Saveinsta help Sadece kaydetmek istediğiniz Instagram Reels video URL'sini girerek Instagram Reels video indirme aracımızla Reels videolarını çevrimiçi olarak indirebilirsiniz. En iyi yanı, kayıt olmanıza gerek olmamasıdır. aracımızı ücretsiz kullanan bir hesap.",
+     "reelsec2": "SaveInsta Downloader'ın amacı özellikle Instagram Reels videolarını ve Fotoğrafını indirmektir. Lütfen indirmek istediğiniz Reels videosunun Instagram'ın içerik indirme politikalarına uygun olduğundan ve genel halk tarafından görülebileceğinden emin olun.",
+     "pg1": "Yapabilirsin",
+     "pg1link": "Instagram Reels'i indir",
+     "pg2": "Saveinsta.li tarafından tasarlanan kullanışlı bir araç olan Reels Downloader'ı kullanarak videoları anonim olarak akıllı telefonunuza aktarın.",
+     "pg3": "Instagram Reels ve videolarını indirmek isteyenler için bu ",
+     "pg3link": "Instagram reel indiricisi",
+     "pg4": "mükemmel bir seçenek. Bu araç, Reel'i herhangi bir sınırlama olmaksızın kendi medya koleksiyonunuza eklemenizi sağlar, sonrasında",
+     "pg4link": "Instagram Reels Video İndirme",
+     "pg5": " bunları paylaşabilir, yeniden yükleyebilir veya daha sonra arkadaşlarınızla izlemek üzere saklayabilirsiniz.",
+     "pg6": "Kaydetme özgürlüğünün tadını çıkarın ve ",
+     "pg6link": "Instagram Reels'i indir",
+     "pg7": "kişisel hesaplardan sınırsız sayıda Instagram Makarası, video ve Fotoğraf depolayın!",
+
+
+     "howto": "SaveInsta Instagram Reels Downloader ile IG Reels'ten nasıl tasarruf edilir",
+     "howtonote": "Not: ",
+     "how2note": "İndireceğiniz Instagram Reels veya videonun herkese açık bir Instagram hesabından olması gerekir.",
+     "support": "Instagram videosunu, Fotoğrafını, Makaralarını, Hikayelerini, IGTV'yi çevrimiçi indir",
+     "howtouse": "Video bağlantısını al",
+     "1step":"Instagram Videosunu İndirmek İstediğiniz Makaraların URL'sini kopyalayın.",
+     "howto2": "Saveinta'yı aç",
+     "2step":"Kopyalanan URL'yi yukarıdaki Saveinsta Instagram Reels indirici metin kutusuna yapıştırın.",
+     "howto3": "Şimdi İndir'e Tıklamanız Yeterli",
+     "3step":"Reel otomatik olarak senkronize edilecektir. Instagram Reels'i indirmek için ŞİMDİ İndir butonuna tıklayın.",
+
+
+
+
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Instagram Reels sesini nasıl indirilir?",
+        "answer": "Cevap: Instagram Reels sesini indirmek için, saveinsta.li tarafından sağlanan <a href='https://saveinsta.li/audio/' style='color: blue;'>Instagram Ses İndirici</a> sitesini ziyaret edin, ardından buraya Reels bağlantısını yapıştırın ve Instagram reel sesini almak için indirme düğmesine basın."
+      },
+      {
+        "question": "Instagram Uygulamasından Reel indirebilir miyim?",
+        "answer": "Cevap: Evet, kullanıcılar Instagram uygulamasından Instagram Reels indirebilirler, ancak yalnızca kullanıcılar tarafından indirilmeye izin verilen videolar. Bu nedenle Instagram'dan her Reel'i indirmek için kullanıcılar buradaki çevrimiçi Reel İndiriciyi kullanabilirler."
+      },
+      {
+        "question": "Instagram Reels'ı nasıl filigransız indiririm?",
+        "answer": "Cevap: Instagram Reels'ı doğrudan <a href='https://www.instagram.com/' style='color: blue;'>Instagram</a>dan indirirseniz, her videoya filigran eklenir. Bu nedenle, kullanıcılar Reel İndirici'den Reels'ı filigransız kaydetmek için Reels indirebilirler."
+      },
+      {
+        "question": "Instagram Reels'ta daha fazla etkileşim nasıl elde edilir?",
+        "answer": "Cevap: Daha fazla Instagram etkileşimi elde etmek için, kullanıcılar <a href='https://saveinsta.li/blog/ai-tools-for-instagram-content-makers' style='color: blue;'>Daha İyi Reels ve gönderiler için AI aracını kullanabilirler</a>."
+      }
+    ]
+  },
+  "conclusion": "hi"
+},
+
+
+
+
+
+
+
+
+
+  
+"photo": {
+  "title": "Saveinsta - Instagram Fotoğraf İndiricisi, IG Galerisini İndirin",
+         "description": "Instagram Fotoğraf İndirici, Instagram'dan fotoğrafları yalnızca birkaç saniyede indirmek için gelişmiş bir araç. Stroessaver.org'un Instagram Fotoğraf İndirme aracını kullanarak Instagram Fotoğrafını HD olarak indirin.",
+    
+         "heading": "SaveInsta - EN İYİ INSTAGRAM FOTOĞRAF İNDİRME ARACI",
+         "highlight": "SaveInsta ile Instagram fotoğraf indirme",
+
+"igphtitle": "Instagram Fotoğraf İndirici",
+"secPhoto": "Saveinsta, instagram fotoğraflarını indirmek için en iyisidir. Bu hızlı instagram fotoğraf indiricisi, ig fotoğraf indiricisi, kullanıcının instagram fotoğraflarını herhangi bir zorluk yaşamadan Instagram'dan kaydetmesine olanak tanır. Instagram fotoğrafını tek gönderi görseli olarak da indirebilir, aynı zamanda birden fazla Instagram fotoğrafını da indirebilirsiniz. ",
+         "secPhoto2": "SaveInsta Basit ve kullanıcı dostudur, Instagram fotoğrafını kaydetmenize yardımcı olur. Instagram fotoğraf indiricisi, Instagram'daki fotoğrafları çevrimiçi olarak yüksek kalitede çözünürlükte indirmenize ve bunları çevrimdışı kullanım için kaydetmenize olanak tanır.",
+    
+
+"heading1": "Instagram için SaveInsta Fotoğraf İndiricisi",
+
+
+"texpg": "SaveInsta, web için kullanabileceğiniz araçtır ",
+"link1": "Instagram fotoğrafını indir",
+"texg1": " ücretsiz bir araçtır ",
+"texg1sec": "IGTV İndiricimiz bunu yapmanın hızlı bir yoludur",
+         "toptext": "Instagram fotoğraf indiricisi SaveInsta, favori Instagram fotoğraflarınızı kaydetmenizi ve yedeklemenizi kolaylaştırır. Instagram fotoğraflarını indirmek için Saveinsta en iyi ve hızlıdır",
+         "link2": "instagram fotoğraf indiricisi",
+         "toptext2": "IG fotoğraf indiricisi, kullanıcıların herhangi bir zorluk yaşamadan Instagram fotoğraflarını Instagram'dan kaydetmelerine olanak tanır. Instagram fotoğrafını tek gönderi görseli olarak indirebileceğiniz gibi birden fazla Instagram fotoğrafı da indirebilirsiniz.",
+
+         "faqtop": "SaveInsta Instagram Fotoğraf İndirici",
+         "howto": "Instagram fotoğrafları SaveInsta kullanılarak nasıl indirilir?",
+"howtonote": "Not: ",
+         "how2note": "İndireceğiniz Instagram fotoğrafı herkese açık bir Instagram hesabından olmalıdır.",
+
+"howto1": "Fotoğraf bağlantısını kopyala",
+         "step1": "Favori görselinizi içeren Instagram Fotoğraf gönderisine gidin ve bağlantıyı o gönderiye kopyalayın",
+
+"howto2": "SaveInsta'yı aç",
+"step2": "Kopyalanan bağlantıyı yukarıdaki Saveinsta - Instagram Fotoğraf indiricisi metin kutusuna yapıştırın.",
+"stdown": "İndirmeye başla",
+
+"howto3": "IG Fotoğrafını İndir",
+         "step3": "Fotoğraf otomatik olarak senkronize edilecektir. Instagram Fotoğrafını indirmek için İndir butonuna tıklayın.",
+
+
+
+
+
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Instagram fotoğraflarını galeriye nasıl indiririm?",
+        "answer": "Cevap: Instagram fotoğraf galerisini bir kerede indirme işlemi, bu Insta Pic Saver aracını kullanarak tek bir fotoğrafı indirme işlemiyle aynıdır. Galeri bağlantısını kopyalayın ve buraya yapıştırın, indir düğmesine tıklayın ve işlem tamamlandı. "
+      },
+      {
+        "question": "Instagram fotoğrafını nasıl kaydedebilirim?",
+        "answer": "Cevap: Instagram resmini indirmek için, resmi açın, bağlantıyı kopyalayın >> <a href='https://saveinsta.li/photo/' style='color: blue;'>Instagram Fotoğraf İndirici </a>'yi ziyaret edin >> bağlantıyı arama kutusuna yapıştırın >> indir düğmesine tıklayın."
+      },
+      {
+        "question": "Instagram DP nasıl indirilir?",
+        "answer": "Cevap: Instagram DP'sini indirmek için kullanıcılar <a href='https://saveinsta.li/profile/' style='color: blue;'>Instagram DP İndirici </a> aracını kullanabilirler, burada profili bağlantısını veya kullanıcı adını yapıştırmanız gerekmektedir."
+      }
+    ]
+  },
+  "conclusion": "hi"
+},
+
+
+
+
+
+
+
+"profile": {
+  "title": "SaveInsta - Instagram Profil Resmi, DP İndirici ve Insta DP Görüntüleyici",
+    "description": "Instagram DP İndirici veya insta DP görüntüleyici, saveinsta.li tarafından sunulan ve kullanıcıların Instagram kullanıcısının DP'sini anonim olarak indirmesine veya görüntülemesine yardımcı olan çevrimiçi bir araçtır.",
+    
+"heading": "Instagram Profil Resmi İndirici",
+    "highlight": "Instagram profil resimlerini kolaylıkla indirin ve görüntüleyin",
+
+"igprotitle": "Instagram DP Çevrimiçi İndir",
+"secProfile": "SaveInsra'nın ücretsiz ve hızlı çevrimiçi aracıyla Instagram Profil Resmini indirin. %100 ücretsiz en iyi Instagram Profili indiricisi. Özel veya herkese açık, istediğiniz herhangi bir profili, yalnızca URL'yi kopyalayarak veya kullanıcının adını yazarak indirebilirsiniz. Bunu kullanın. Profil fotoğraflarını görüntülemek ve indirmek için web aracı.",
+    "secProfile2": "SaveInsta Downloader'ın amacı özellikle Instagram Profil Picute'u indirmektir. SaveInsta Basit ve kullanıcı dostudur, Instagram profil resmini kaydetmeye yardımcı olur. Instagram profil indirici, Instagram'dan Profil fotoğraflarını yüksek kalitede çevrimiçi olarak indirmenize olanak tanır ve bunları çevrimdışı kullanım için kaydedin.",
+    
+
+"heading1": "SaveInsta - EN İYİ INSTAGRAM PROFİL RESMİ İNDİRME ARACI",
+"texpg": "SaveInsta indirebileceğiniz ücretsiz, hepsi bir arada bir yazılımdır",
+"pglink": "Instagram Profil resmi.",
+"texg1": "SaveInsta şunları yapmanızı sağlar ",
+     "pg1link": "Instagram Profilini İndir",
+"texpg2": "Birkaç tıklamayla hızlı ve rahat bir şekilde resimler çeker.",
+     "texg3": "SaveInsta",
+"pg3link": "instagram profil indiricisi",
+"texpg4": "Instagram Profili indiricisi, favori Instagram Profil fotoğraflarınızı kaydetmenizi kolaylaştırır. Instagram Profil fotoğraflarını indirmek için Saveinsta en iyi ve hızlıdır",
+"toptext2": "Instagram Dp Viewer and Downloader, kullanıcıların instagram profil resimlerini herhangi bir zorluk yaşamadan Instagram'dan kaydetmelerine olanak tanır.",
+
+"faqtop": "SaveInsta Instagram Profil Resmi İndirici",
+     "howto": "SaveInsta kullanılarak Instagram Profili nasıl indirilir?",
+
+"howto1": "Profil bağlantısını veya Kullanıcı Adını kopyalayın",
+     "step1": "Instagram Profiline gidin ve bağlantıyı veya Kullanıcı Adını kopyalayın",
+
+"howto2": "SaveInsta'yı aç",
+"step2": "Kopyalanan bağlantıyı yukarıdaki Saveinsta - Instagram Profil indirici metin kutusuna yapıştırın.",
+"stdown": "İndirmeyi Başlat",
+
+"howto3": "IG Profilini veya DP'yi İndirin",
+"step3": "Profil veya DP Fotoğrafı otomatik olarak senkronize edilecektir. Instagram Profil Resmini indirmek için İndir butonuna tıklayın.",
+
+
+
+
+
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Instagram profil resmini anonim olarak nasıl görüntüleyebilirim?",
+        "answer": "Cevap: Birinin profil resmini görüntülemek veya indirmek istiyorsanız ve bunu onlara haber vermeden yapmak istiyorsanız, basitçe bu Instagram DP Görüntüleyici aracını kullanabilirsiniz."
+      },
+      {
+        "question": "Özel hesabın Instagram profil resmini nasıl indiririm?",
+        "answer": "Cevap: Bir Instagram profili veya hesabı özel olarak ayarlandıysa, genellikle profili indiremez veya görüntüleyemezsiniz. Ancak, <a href='https://saveinsta.li/profile/' style='color: blue;'>saveinsta.li'un Profili</a> indiricisi için koşullar farklıdır çünkü burada kullanıcılara herhangi bir Instagram hesabı DP'sini orijinal kalitede görüntüleme veya indirme izni veriyoruz."
+      },
+      {
+        "question": "Bu Instagram DP Görüntüleyiciyi iPhone'da kullanabilir miyim?",
+        "answer": "Cevap: Elbette evet, bu araç herkes içindir, Android kullanıcısı veya IOS kullanıcısı olması fark etmez. Sadece profil kullanıcı adını veya profil bağlantısını indirmek için gereklidir ve her cihaz kullanıcısı içindir."
+      },
+      {
+        "question": "Instagram profilini nasıl optimize edebilirim?",
+        "answer": "Cevap: Instagram profilinizi optimize etmek için ilgili BIO ile daha iyi bir DP eklemeniz ve kullanıcıların size kolayca bağlanabilmesi için bilgi sahibi olmanız gerekir. Ayrıca, Instagram hesabınızı nasıl özelleştireceğiniz hakkında bilgi edinin. <a href='https://saveinsta.li/blog/how-to-create-an-instagram-account-pro-customized-profile' style='color: blue;'>İnstagram hesabı pro özelleştirme.</a>"
+      }
+    ]
+  },
+  "conclusion": "hi"
+},
+
+
+
+
+
+
+
+
+  
+
+
+"audio": {
+  "title": "Instagram Ses İndirici - Reels'i MP3'e Dönüştür",
+  "description": "saveinsta.li'dan Instagram Ses İndirici, Instagram video ve reels'leri sadece birkaç saniye içinde ses haline dönüştürmenize yardımcı olan en son web aracıdır.",
+  
+  "highlight": "Instagram Ses İndirme",
+  
+  
+  
+  "intro": "saveinsta.li'dan Instagram Ses İndirici, Instagram video ve reels'leri sadece birkaç saniye içinde ses haline dönüştürmenize yardımcı olan en son web aracıdır. Bu Instagram Reels ses indirme aracı ile kullanıcılar Instagram Reels, Video, IGTV'yi ses formatında indirebilirler. <a href='https://www.instagram.com/' style='color: blue;'>Instagram</a> Videolarını şarkıya dönüştüren bir web aracı arıyorsanız, o zaman bu araç mükemmel bir seçenektir. Burada herhangi bir Instagram videosunu sadece video bağlantısı ile müziğe dönüştürebilirsiniz. Instagram sesini video veya Reels bağlantısıyla 320kbps ve 192kbps yüksek kalitede indirin. Bu Instagram'dan Mp3'e dönüştürme aracı, Insta Reels'i Mp3'e dönüştürmenin tek durak çözümüdür.",
+ 
+  "highQuality":"Yüksek Kaliteli İndirme",
+  "phighQuality":"Bu, herhangi bir Instagram videosunu 320kbps ve 192kbps yüksek kaliteli ses haline dönüştürmenin en son seçeneğidir.",
+  
+  "friendly":"Kullanıcı Dostu Arayüz",
+  "phfriendly":"saveinsta.li'dan Instagram Ses İndirici aracı şimdi en hızlıdır ve kullanıcılar cihazlarındaki tarayıcı ile çok kolay bir şekilde erişebilirler.",
+
+  "required":"Kayıt Gerekmez",
+  "prequired":"Instagram Sesini video bağlantısı ile indirin ve erişmek için sadece cihaz tarayıcısına ihtiyaç duyulur, herhangi bir kayıt gerekmez.",
+
+  "compatible":"Uyumlu",
+  "pcompatible":"saveinsta.li'un sağladığı <a href='https://saveinsta.li/audio/' style='color: blue;'>Instagram Ses İndirme</a> aracı, herhangi bir cihazla uyumludur, Android veya IOS olsun ve aynı şekilde Mac veya Windows olsun.",
+
+  
+  "howtouse":"Instagram Sesini Mp3'e Nasıl Dönüştürülür",
+  "phowtouse":"Bağlantı yardımıyla herhangi bir Instagram videosunu müziğe dönüştürmek için çok uyumlu bir çevrimiçi web aracıdır. Kullanıcılar bu araca herhangi bir cihazla erişebilirler, yapmaları gereken tek şey Instagram videolarının bağlantısını buraya getirmek ve ses haline dönüştürmektir.",
+
+
+  "1step":"Instagram Reels'i açın >> paylaş düğmesine tıklayın >> bağlantıyı kopyalamak için tıklayın.",
+  "2step":"Ardından saveinsta.li'dan Instagram Ses İndirici'yi herhangi bir cihaz tarayıcısıyla ziyaret edin.",
+  "3step":"Şimdi video veya Reels bağlantısını arama kutusuna yapıştırın ve indirmek için tıklayın.",
+  "4step":"İşte burada, indirme sadece bir saniye içinde başlayacak.",
+
+
+
+
+
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Instagram'dan ses nasıl indirilir?",
+        "answer": "Cevap: Instagram Sesini indirmek için, sadece <a href='https://saveinsta.li/audio/' style='color: blue;'>saveinsta.li</a>'un sağladığı <a href='https://saveinsta.li/audio/' style='color: blue;'>Instagram Ses İndirme</a> aracını ziyaret edin, ardından Instagram Reels bağlantınızı arama kutusuna yapıştırın ve indirmek için tıklayın, işte bu kadar."
+      },
+      {
+        "question": "Instagram Reels Nasıl İndirilir?",
+        "answer": "Cevap: Sadece indirmek istediğiniz Reels'in bağlantısını kopyalayın, ardından tarayıcınızda <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a>'u ziyaret edin ve Reel indiricisine geçin. Şimdi bağlantıyı arama kutusuna yapıştırın, ardından başlatmak için tıklayın ve indirme düğmesine tıklayın."
+      },
+      {
+        "question": "Bu Insta Ses İndirici iPhone için kullanılabilir mi?",
+        "answer": "Cevap: Burada paylaştığımız, <a href='https://www.instagram.com/' style='color: blue;'>Instagram</a> sesi indirmek için herhangi bir belirli cihaz veya tarayıcı için değildir. Kısacası, bu çevrimiçi aracı iPhone'unuzda Insta Sesini indirmek için tabii ki kullanabilirsiniz."
+      },
+      {
+        "question": "Instagram Reels'inizi nasıl büyütebilirsiniz?",
+        "answer": "Cevap: Instagram Reels'inizi büyütmek için öncelikle Reels'inizi sıralamak için <a href='https://saveinsta.li/blog/know-all-about-instagram-algorithm' style='color: blue;'>Instagram algoritmasını bilmeniz gerekir</a>."
+      }
+    ]
+  },
+  "conclusion": "hi."
+}
+
+}

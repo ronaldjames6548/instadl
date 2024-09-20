@@ -1,0 +1,492 @@
+{ 
+
+ "SiteDetails": {
+    "title": "Saveinsta - I-download ang Instagram Video, Larawan, Kwento at Mga Reel",
+    "description": "Ang Saveinsta ay Instagram Downloader, I-download ang Instagram Video, Reels, Photo, Stories. Instagram photo download IGTV Online Downloader, i-download ang Instagram story para i-save mula sa Instagram.",
+ "faq": {
+      "title": "Madalas Itanong",
+      "questions": [
+        {
+          "question": "Paano i-download ang Instagram story ng isang tao?",
+          "answer": "Sagot: Ang pag-download ng Instagram story ng isang tao ay napaka-simple, Ang kailangan lang gawin ay kopyahin ang profile URL >> <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a> at i-paste ang URL sa search box >> I-click ang button na i-download, at tapos na."
+        },
+        {
+          "question": "Maaari bang tingnan ang lumang Instagram stories ng isang tao?",
+          "answer": "Sagot: Hindi, walang anumang feature ang Instagram na makakatulong sa mga gumagamit na tingnan ang lumang story ng isang tao dahil ito ay mawawala pagkatapos ng 24 oras, Pero kung ang mga gumagamit ay nagdagdag ng kuwento sa highlight, maaari mo itong tingnan."
+        },
+        {
+          "question": "Paano i-download ang Instagram Highlight?",
+          "answer": "Sagot: Upang i-download ang highlight ng Instagram ng isang gumagamit, Una, buksan ang highlight at kopyahin ang URL >> bisitahin ang <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a> >> i-paste ang URL sa search box at i-click ang button na i-download."
+        },
+        {
+          "question": "Paano lumikha ng pinakamahusay na trending na kuwento?",
+          "answer": "Sagot: Ang paglikha ng trending na kuwento ay nangangailangan ng <a href='https://saveinsta.li/blog/updated-with-instagram-trends-and-algorithm' style='color: blue;'>lagi kang updated sa mga trend ng Instagram</a> tulad ng mga nangyayari sa trending na mga reels."
+        }
+      ]
+    },
+    "conclusion": "hi"
+  }
+,
+
+	 
+  "stories": {
+     "title": "SaveInsta - Instagram Story Saver - Instagram Story at Highlight Downloader",
+     "description": "Ang SaveInsta - Instagram Story Saver - Instagram Story at Highlight Downloader ay tumutulong sa iyo na mag-download ng mga kwento mula sa Instagram sa isang click lang. Ang pinakamahusay na online na tool para mag-download ng Instagram story. Mag-download ng mataas na kalidad na mga larawan at video mula sa Story Instagram.",
+     "htitle": "Instagram Story Download - Instagram Story Saver",
+     "highlight": "I-download ang Instagram Stories at Highlights",
+     "box-title": "Pag-download ng kwento sa Instagram gamit ang SaveInsta",
+
+
+     "heading": "Lahat ng feature ng SaveInsta Instagram downloader",
+     "support": "Sinusuportahan ng SaveInsta ang lahat upang mag-download ng Instagram video, mga reels na larawan at kwento",
+     "igDown": "Instagram video downloader",
+     "link1": "Instagram story downloader",
+     "link2": "I-download ang Instagram Story",
+     "link3": "pag-download ng insta story",
+     "sectionstory": "Ang SaveInsta.li ay ang pinakamahusay",
+     "sectionstory2": "Ito ay simpleng gamitin at nagbibigay-daan sa iyong mag-download ng mataas na kalidad na mga kwento sa Instagram.",
+     "sectionstory3": "Kailan ang nasa isip, Paano ",
+     "sectionstory4": "Ang SaveInsta.li ay ang pinakamahusay",
+     "sectionstory5": "sa iyong telepono? Ang SaveInsta.li ay ang pinakamahusay na tool upang suportahan ang pag-download ng Instagram Story nang libre. ",
+     "sectionstory6": "Pag-download ng mga kwento sa Instagram gamit ang SaveInsta, ",
+     "sectionstory7": "ay isang mahusay na paraan upang mapanatili ang iyong mga alaala, ibahagi ang mga ito sa mga mahal sa buhay, o matiyak na hindi mo sila mawawala.",
+     "howto": "Paano Madaling Mag-download ng Mga Kwento sa Instagram gamit ang SaveInsta.li",
+     "howto1": "Kopyahin ang URL ng Kwento",
+     "howto2": "Buksan ang SaveInsta",
+     "howto3": "I-download ang IG Story",
+     "step1": "Buksan ang Instagram Story na gusto mong i-download. Upang magpatuloy, piliin ang (⋯) o (⋮) na simbolo ayon sa iyong device. Upang kopyahin ang URL ng Story, pumunta sa popup menu at i-click ang Copy Link." ,
+     "step2": "Pumunta sa SaveInsta at piliin ang seksyong Kwento para i-paste ang kinopyang URL. Kapag nai-paste mo na ang URL, i-click ang DOWNLOAD button",
+     "step3": "Pagkatapos mong i-click ang DOWNLOAD ang Kwento ay mase-save sa iyong device. Depende sa iyong device, ang Story file ay mase-save sa folder ng Mga Download o ang Download Gallery.",
+ 
+
+  "howtouse":"Paano Mag-download ng Instagram Story",
+     "phowtouse": "Ang pag-download ng Instagram story ng isang tao gamit ang stories Saver online tool na ito ay isa sa madaling bagay na magagawa mo. Ang kailangan mo lang ay dalhin ang link ng story dito at i-paste ito sa tool at makuha ang kwento sa ilang pag-click lang." ,
+
+
+     "1step":"Buksan ang kwentong kailangang i-download >> i-click ang pindutang ibahagi.",
+     "2step": "I-click ang button na kopyahin ang link at kopyahin ang link sa clipboard.",
+     "3step": "Pagkatapos ay bumisita dito at i-paste ang URL sa box para sa paghahanap at >> I-click ang pag-download.",
+     "4step":"Kaya dito magsisimula ang iyong pag-download.",
+
+
+
+
+    "faq": {
+      "title": "Madalas Itanong",
+      "questions": [
+        {
+          "question": "Paano i-download ang Instagram story ng isang tao?",
+          "answer": "Sagot: Ang pag-download ng Instagram story ng isang tao ay napaka-simple, Ang kailangan lang gawin ay kopyahin ang profile URL >> <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a> at i-paste ang URL sa search box >> I-click ang button na i-download, at tapos na."
+        },
+        {
+          "question": "Maaari bang tingnan ang lumang Instagram stories ng isang tao?",
+          "answer": "Sagot: Hindi, walang anumang feature ang Instagram na makakatulong sa mga gumagamit na tingnan ang lumang story ng isang tao dahil ito ay mawawala pagkatapos ng 24 oras, Pero kung ang mga gumagamit ay nagdagdag ng kuwento sa highlight, maaari mo itong tingnan."
+        },
+        {
+          "question": "Paano i-download ang Instagram Highlight?",
+          "answer": "Sagot: Upang i-download ang highlight ng Instagram ng isang gumagamit, Una, buksan ang highlight at kopyahin ang URL >> bisitahin ang <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a> >> i-paste ang URL sa search box at i-click ang button na i-download."
+        },
+        {
+          "question": "Paano lumikha ng pinakamahusay na trending na kuwento?",
+          "answer": "Sagot: Ang paglikha ng trending na kuwento ay nangangailangan ng <a href='https://saveinsta.li/blog/updated-with-instagram-trends-and-algorithm' style='color: blue;'>lagi kang updated sa mga trend ng Instagram</a> tulad ng mga nangyayari sa trending na mga reels."
+        }
+      ]
+    },
+    "conclusion": "hi"
+  }
+,
+
+
+
+
+
+
+
+
+
+
+"videos": {
+         "title": "SaveInsta - Instagram Video Downloader",
+         "support": "Mag-download ng Instagram video, Larawan, Reels, Stories, IGTV online",
+         "description": "Ang Saveinsta ay Instagram Downloader, Download Instagram Video, Reels, Photo, Stories. Instagram photo download IGTV Online Downloader, i-download ang Instagram story para i-save mula sa Instagram.",
+   
+"igvDown": "Pag-download ng Video sa Instagram",
+"secVideo": "Ang Saveinsta ay isang libreng pag-download ng Instagram video online. Ang SaveInsta ay isang Mabilis na Instagram video downloader. Ang pag-download ng video sa Instagram ay tumutulong sa iyo na mag-download sa ilang mga pag-click lang.",
+         "secVideo2": "Ito ay isang 100% libreng tool para sa pag-download ng Instagram. Ang SaveInsta ay pinakamahusay at isang madaling paraan upang mag-download ng mga video mula sa instagram. Para sa pag-download ng isang video mula sa Instagram mayroon ka lang link sa video na iyon na gusto mong i-download at pagkatapos i-paste ang link ng video na iyon sa Instagram video downloader.",
+    
+"igphtitle": "Instagram Photo Downloader",
+"secPhoto": "Ang Saveinsta ay pinakamahusay na mag-download ng mga larawan sa instagram. Ang mabilis na instagram photo downloader, ig photo downloader ay nagbibigay-daan sa user na mag-save ng mga larawan sa instagram mula sa Instagram nang walang anumang kahirapan. Maaari kang mag-download ng larawan sa instagram at mag-iisang post na larawan ngunit mag-download din ng maraming larawan sa Instagram. ",
+         "secPhoto2": "Ang SaveInsta ay Simple at user-friendly, tumutulong na i-save ang larawan sa Instagram. Nagbibigay-daan sa iyo ang Instagram photo downloader na mag-download ng mga larawan mula sa Instagram  sa mataas na kalidad na resolution online at i-save ang mga ito para sa offline na paggamit.",
+    
+"igreeltitle": "I-download ang Instagram Reels",
+"secreel": "Ang SaveInsta ay libre at mabilis na tool para sa pag-download ng HD Instagram reels. Ang Instagram reels downloader na ito ay nagbibigay-daan sa iyong mag-save ng mga video ng reels sa MP4 na mataas ang kalidad sa iyong device nang madali. Ang Instagram reels downloader ay gumagana nang libre para sa lahat at maaari kang mag-download ng maraming reels mga video ayon sa gusto mo.",
+         "secreel2": "Ang mga video ng Instagram Reel ay maaaring ma-download online at i-save para magamit sa ibang pagkakataon sa pamamagitan ng paggamit ng SaveInsta. Ang To The Instagram Reels Downloader ay isang sinubukan at totoong solusyon para sa pag-download ng mataas na kalidad na mga video sa Instagram nang hindi nag-i-install ng anumang software.",
+   
+"igstorytitle": "Pag-download ng Kuwento sa Instagram",
+
+"secstory": "Ang Saveinsta ay ang nangungunang Instagram story downloader dahil ito ay simpleng gamitin at nagbibigay-daan sa iyong mag-download ng mataas na kalidad na Instagram stories.",
+         "secstory2": "Mataas na kalidad na Instagram Story downloader para sa iyong telepono, PC, o tablet. Gamitin ang iyong browser upang ma-access ang aming Instagram video downloader. Walang karagdagang software ang kailangang i-install.",
+	"snapInfotitle": "SaveInsta - PINAKAMAHUSAY NA INSTAGRAM DOWNLOADER TOOL",
+"texpg": "Ang SaveInsta ay ang iyong go-to web tool sa ",
+"link3": "Mag-download ng mga video sa Instagram",
+"txtg1": " ay isang libreng tool upang ",
+"link2": "I-download ang Instagram Photos",
+"texpg1sec": " Ang aming IGTV Downloader ay isang Mabilis na paraan upang",
+"toptext": "SaveInsta, isang Instagram photo downloader ay ginagawang simple upang i-save at i-back up ang iyong mga paboritong larawan sa Instagram. Upang mag-download ng mga larawan sa Instagram Ang Saveinsta ay pinakamahusay at mabilis",
+"link8": "Instagram video downloader",
+"toptext2": "Pinapayagan ng IG photo downloader ang mga user na mag-save ng mga larawan sa instagram mula sa Instagram nang walang anumang kahirapan. Maaari kang mag-download ng larawan sa instagram din ng isang post na larawan ngunit mag-download din ng maramihang mga larawan sa Instagram.",
+
+
+"howtotop": "SaveInsta - Instagram Downloader",
+"howto": "Paano mag-save mula sa IG gamit ang SaveInsta Instagram Downloader",
+"howtonote": "Tandaan: ",
+         "how2note": "Ang Instagram video o larawan, na iyong ida-download ay dapat mula sa isang pampublikong Instagram account.",
+    
+"howtouse": "Kunin ang link ng Video",
+         "1step": "Kopyahin ang URL ng video na gusto mong I-download ang Video Instagram.",
+
+"howto2": "Buksan ang Saveinta",
+         "2step": "I-paste ang kinopyang ito sa Saveinsta - Instagram downloader text box sa itaas.",
+
+"howto3": "I-click lamang ang I-download",
+         "3step":"Awtomatikong isi-synchronize ang video. Mag-click sa button na I-download upang i-download ang Instagram Video.",
+
+         "snapInfotext": "Ang SaveInsta ay isang malakas na Instagram downloader na idinisenyo upang kunin ang mataas na kalidad na nilalaman mula sa Instagram sa ilang segundo. Ang pinakamahusay na diskarte sa pag-download ng materyal sa Instagram ay ang paggamit ng mga serbisyo ng third party gaya ng SaveInsta downloader.",
+         "snapInfotext2": "Araw-araw, milyun-milyong larawan ang ibinabahagi sa Instagram. Ginagawa nitong pinakasikat na picture app sa mundo. Madalas mong aalisin ang mga larawang dapat mong ingatan. At kailangan mo na ngayon ng Instagram video downloader. ",
+
+        "tos": "Ang SaveInsta ay idinisenyo upang hayaan kang mag-download ng mga video at larawan sa Instagram na na-upload sa iyong sariling account. Inilalaan namin ang karapatang tanggihan ang serbisyo kung gagamitin mo ang aming mga tool upang labagin ang privacy o materyal na mga karapatan ng iba.",
+         "faqh": "Mga Madalas Itanong",
+         "faqh1": "Instagram video Download Mabilis, madali at ligtas.",
+         "faqq1": "Ano ang Instagram video downloader?",
+         "faqa1": "Ito ay isang online na tool, tumutulong sa iyong mag-download ng mga video sa Instagram, mga larawan at mga video sa IGTV. Kung sakaling kailanganin mo itong gamitin sa ibang pagkakataon. Ang SaveInsta ay ang pinakamahusay na tool para sa pag-download mula sa Instagram.",
+         "faqq2": "Kailangan bang mag-sign in gamit ang iyong Instagram account?",
+         "faqa2": "Hindi, hindi mo kailangang mag-log in sa iyong account; hindi humihingi ang SaveInsta ng anumang impormasyon mula sa iyo, na nagpapahintulot sa iyong mag-download ng anuman mula sa Instagram nang ligtas at pribado.",
+         "faqq3": "Posible bang mag-save ng mga video nang direkta sa Instagram?",
+         "faqa3": "Hindi ka binibigyang-daan ng Instagram na mag-download ng mga video mula sa iyong feed o mga kwento ng ibang mga user. Sa kabutihang palad, mayroon ka na sa amin; bisitahin lamang ang aming website, SaveInsta, at sundin ang mga tagubilin.",
+         "faqq4": "Pinapayagan ka ba ng website na mag-save ng mga larawan sa Instagram sa iyong computer?",
+         "faqa4": "Siyempre, mabilis kang makakapag-download ng mga Instagram Video, larawan, kwento at mag-scroll mula sa iyong PC.",
+
+
+         "link1": "Pag-download ng mga video sa Instagram",
+         "link4": "Mag-download ng mga Instagram reels",
+         "link5": "I-download ang Instagram Story sa pamamagitan ng link",
+         "link6": "I-download ang Instagram Stories",
+         "link7": "Instagram story downloader",
+
+         "texpgsec": "mga larawan, kwento, reel, at IGTV mula sa Instagram na may ilang simpleng hakbang.",
+         "txtg2": "Tumutulong sa iyo ang SaveInsta Instagram downloader na ",
+         "texpg2sec": "na nasiyahan ka sa panonood? Kailangan mo ba ng Instagram Video Downloader na ganap na libre at anonymous? Kung gayon ay nasa tamang website ka.",
+         "txtg3": "Ang aming website Saveinsta an",
+         "texpg3sec": " ay nagbibigay-daan sa iyo upang I-download ang Instagram Story sa pamamagitan ng link. Tinitiyak namin sa iyo na ang paggamit ng aming system ay ganap na ligtas at secure. Maaari mong gamitin ang serbisyong ito upang tingnan ang mga kuwento o upang iimbak ang impormasyon sa iyong computer, mobile phone, tablet o ibang device.",
+
+         "footertitle": "isang Napakahusay na tool para Mag-download ng Instagram Reels, Videos, Photos at Stories",
+         "footertext":"Instagram Downloader, I-download ang Instagram Reels, Video, Photo, Stories at IGTV Online Downloader para mag-download ng mga Instagram reels, larawan, video at kwento.",
+         "footercopyright1": "© Copyright 2024",
+         "footercopyrightsi": "SaveInsta.",
+         "footercopyright2": "Lahat ng karapatan ay nakalaan.",
+
+"metaff": "Hindi kami kaakibat sa Instagram o Meta.",
+
+
+  
+
+  "faq": {
+    "title": "Madalas Itanong na mga Tanong",
+    "questions": [
+      {
+        "question": "Paano mag-generate ng libreng hashtag para sa Instagram?",
+        "answer": "Sagot: Upang mag-generate ng libreng hashtag para sa iyong mga post sa Instagram, maaari mong gamitin ang <a href='/hashtag-generator' style='color: blue;'>Instagram hashtag Generator</a> na web tool ng <a href='/' style='color: blue;'>saveinsta.li</a>, na nagbibigay ng pagkakataon na mag-generate ng libreng hashtag para sa Instagram."
+      },
+      {
+        "question": "Paano ito naglilikha ng Hashtag?",
+        "answer": "Sagot: Kaya ang Instagram Hashtag generator dito ay lumilikha ng hashtag mula sa mga trending sa Instagram, tulad ng anong klase ng bagay ang nangungunang sa kasalukuyan sa Instagram kaugnay sa iyong keyword."
+      },
+      {
+        "question": "Gumagana ba ang mga generator ng hashtag?",
+        "answer": "Sagot: Oo, siyempre, gumagana ito, lahat ay depende sa iyo kung anong uri ng hashtag ang nais mong lumikha para sa iyong mga post. At ang hashtag sa mga post sa Instagram ay laging tumutulong para sa mas mahusay na saklaw. <a href='https://saveinsta.li/blog/using-guide-instagram-hashtags' style='color: blue;'>Ang Paggamit ng Hashtags para sa mga post sa Instagram</a> ay maaaring maging pinakamatagumpay na bahagi, dahil ito ay tumutulong upang ipaalam sa mga gumagamit at sa algorithm ng Instagram kung ano ang iyong ipinapaskil at ipakita ito sa partikular na mga gumagamit."
+      }
+    ]
+  },
+  "conclusion": "hi"
+}
+,
+
+
+
+
+
+
+
+
+"reels": {
+    "title": "I-save ang Insta - Instagram Reels Video Download - Instagram Downloader",
+     "description": "Instagram Reels Download, Reels Downloader, Download video Reels mula sa Instagram, Instagram Reel Downloader ay ang mabilis at libreng reels video downloader para sa lahat ng device.",
+     "igrDown": "Instagram Reels Video Downloader",
+     "igphDtitle": "Mag-download ng mga video ng Instagram Reels nang mabilis at madali!",
+     "igreeltitle": "Instagram Story Downloader",
+     "secVideo": "Ang Saveinsta ay isang libreng pag-download ng Instagram video online. Ang SaveInsta ay isang Mabilis na Instagram video downloader. Ang pag-download ng video sa Instagram ay tumutulong sa iyo na mag-download sa ilang mga pag-click lang.",
+     "secPhoto": "Ang Saveinsta ay pinakamahusay na mag-download ng mga larawan sa instagram. Ang mabilis na instagram photo downloader, ig photo downloader ay nagbibigay-daan sa user na mag-save ng mga larawan sa instagram mula sa Instagram nang walang anumang kahirapan. Maaari kang mag-download ng larawan sa instagram at mag-iisang post na larawan ngunit mag-download din ng maraming larawan sa Instagram" ,
+     "secreel": "Ang Saveinsta ay pinakamahusay na mag-download ng mga larawan sa instagram. Ang mabilis na instagram photo downloader na ito, ig photo downloader ay nagbibigay-daan sa user na mag-save ng mga larawan sa instagram mula sa Instagram nang walang anumang kahirapan. Maaari kang mag-download ng larawan sa instagram at mag-iisang post na larawan ngunit mag-download din ng maraming larawan sa Instagram" ,
+     "secstory": "Ang Saveinsta ay pinakamainam na mag-download ng mga larawan sa instagram. Ang mabilis na instagram photo downloader, ig photo downloader ay nagbibigay-daan sa user na mag-save ng mga larawan sa instagram mula sa Instagram nang walang anumang kahirapan. Maaari kang mag-download ng larawan sa instagram at mag-iisang post na larawan ngunit mag-download din ng maraming larawan sa Instagram" ,
+     "snapInfotitle": "SaveInsta - PINAKAMAHUSAY NA INSTAGRAM REELS DOWNLOADER TOOL",
+     "snapInfotext": "Ang SaveInsta ay isang malakas na Instagram downloader na idinisenyo upang kunin ang mataas na kalidad na nilalaman mula sa Instagram sa ilang segundo. Ang pinakamahusay na diskarte sa pag-download ng materyal sa Instagram ay ang paggamit ng mga serbisyo ng third party gaya ng SaveInsta downloader.",
+     "snapInfotext2": "Araw-araw, milyun-milyong larawan ang ibinabahagi sa Instagram. Ginagawa nitong pinakasikat na app ng larawan sa mundo. Madalas mong aalisin ang mga larawan na dapat mong ingatan. At kailangan mo na ngayon ng Instagram video downloader. ",
+   
+     "reelsec1": "Tumulong ang Instagram Reels Downloader sa pamamagitan ng Saveinsta Mag-download ka ng mga video ng Reels online gamit ang aming tool sa pag-download ng video ng Instagram Reels sa pamamagitan lamang ng pagpasok ng URL ng video ng Instagram Reels na gusto mong i-save. Ang pinakamagandang bahagi ay hindi mo kailangang magrehistro para sa isang account gamit ang aming tool nang libre.",
+     "reelsec2": "Lalo na ang layunin ng SaveInsta Downloader na mag-download ng mga video at Larawan ng Instagram Reels. Pakitiyak, na ang video ng Reels na gusto mong i-download ay sumusunod sa mga patakaran sa pag-download ng nilalaman ng Instagram at maaaring makita ng pangkalahatang publiko.",
+     "pg1": "Maaari kang",
+    "pg1link": "i-download ang Instagram Reels",
+     "pg2": "mga video sa iyong smartphone nang hindi nagpapakilala gamit ang Reels Downloader, isang madaling gamiting tool na idinisenyo ng Saveinsta.li.",
+     "pg3": "Para sa mga gustong mag-download ng Instagram Reels at mga video, ito ",
+     "pg3link": "Instagram reel downloader",
+     "pg4": "ay ang perpektong opsyon. Hinahayaan ka ng tool na ito na magdagdag ng Reel sa sarili mong koleksyon ng media nang walang anumang limitasyon, pagkatapos",
+     "pg4link": "Instagram Reels Video Download",
+     "pg5": " maaari mong ibahagi, muling i-upload, o iimbak lamang ang mga ito para sa panonood sa ibang pagkakataon kasama ng iyong mga kaibigan.",
+     "pg6": "Magsaya sa kalayaang Mag-save at ",
+     "pg6link": "i-download ang Instagram Reels",
+     "pg7": "mula sa mga personal na account at mag-imbak ng walang limitasyong bilang ng mga Instagram Reels, video, at Photos !",
+
+
+     "howto": "Paano mag-save mula sa IG Reels gamit ang SaveInsta Instagram Reels Downloader",
+     "howtonote": "Tandaan: ",
+     "how2note": "Ang Instagram Reels o video, na iyong ida-download ay dapat mula sa isang pampublikong Instagram account.",
+     "support": "Mag-download ng Instagram video, Larawan, Reels, Stories, IGTV online",
+     "howtouse": "Kunin ang link ng Video",
+     "1step": "Kopyahin ang URL ng Reels na gusto mong I-download ang Video Instagram.",
+     "howto2": "Buksan ang Saveinta",
+     "2step": "I-paste ang kinopyang URl nito sa Saveinsta Instagram Reels downloader text box sa itaas.",
+     "howto3": "I-click lamang ang I-download Ngayon",
+     "3step": "Awtomatikong isi-synchronize ang reel. I-click ang button na I-download NGAYON upang i-download ang Instagram Reels.",
+
+
+  
+
+  "faq": {
+    "title": "Madalas Itanong na mga Tanong",
+    "questions": [
+      {
+        "question": " Paano mag-download ng audio ng Instagram Reels?",
+        "answer": "Sagot: Upang mag-download ng audio ng Instagram Reels, bisitahin ang <a href='https://saveinsta.li/audio/' style='color: blue;'>Instagram Audio Downloader</a> sa pamamagitan ng saveinsta.li, pagkatapos i-paste ang link ng reels doon at i-click ang button na download upang makuha ang audio ng Instagram reel."
+      },
+      {
+        "question": "Maaari bang i-download ang Reel mula sa Instagram App?",
+        "answer": "Sagot: Oo, maaaring i-download ng mga gumagamit ang Instagram Reels mula sa app, ngunit ang mga video lamang na pinapayagan ng mga gumagamit na i-download. Kaya upang i-download ang bawat reel mula sa Instagram, maaaring gamitin ng mga gumagamit ang online Reel Downloader mula dito."
+      },
+      {
+        "question": "Paano i-download ang Instagram Reels nang walang watermark?",
+        "answer": "Sagot: Kapag direktang ini-download ang Instagram Reels mula sa <a href='https://www.instagram.com/' style='color: blue;'>Instagram</a>, ito ay may kasamang watermark sa bawat video. Kaya para sa kadahilanang ito, maaaring i-download ng mga gumagamit ang Reels mula sa Reel Downloader upang mailigtas ang mga reels nang walang watermark."
+      },
+      {
+        "question": "Paano makakuha ng mas maraming engagement sa Instagram Reels",
+        "answer": "Sagot: Upang makakuha ng mas maraming engagement sa Instagram, maaaring gamitin ng mga gumagamit ang <a href='https://saveinsta.li/blog/ai-tools-for-instagram-content-makers' style='color: blue;'>AI tool para gumawa ng mas mahusay na Reels at mga post</a>."
+      }
+    ]
+  },
+  "conclusion": "hi"
+},
+
+
+
+
+
+
+
+
+
+  
+"photo": {
+         "title": "Saveinsta - Instagram Photo Downloader, I-download ang IG Gallery",
+         "description": "Instagram Photo Downloader, ang advanced na tool para sa pag-download ng mga larawan mula sa Instagram sa ilang segundo lang. I-download ang Instagram Photo sa HD gamit ang Instagram Photo Downloader tool ng stroessaver.org.",
+    
+         "heading": "SaveInsta - PINAKAMAHUSAY NA INSTAGRAM PHOTO DOWNLOADER TOOL",
+         "highlight": "Pag-download ng larawan sa Instagram gamit ang SaveInsta",
+
+"igphtitle": "Instagram Photo Downloader",
+"secPhoto": "Ang Saveinsta ay pinakamahusay na mag-download ng mga larawan sa instagram. Ang mabilis na instagram photo downloader, ig photo downloader ay nagbibigay-daan sa user na mag-save ng mga larawan sa instagram mula sa Instagram nang walang anumang kahirapan. Maaari kang mag-download ng larawan sa instagram at mag-iisang post na larawan ngunit mag-download din ng maraming larawan sa Instagram. ",
+         "secPhoto2": "Ang SaveInsta ay Simple at user-friendly, tumutulong na i-save ang larawan sa Instagram. Nagbibigay-daan sa iyo ang Instagram photo downloader na mag-download ng mga larawan mula sa Instagram  sa mataas na kalidad na resolution online at i-save ang mga ito para sa offline na paggamit.",
+    
+
+"heading1": "SaveInsta Photo Downloader para sa Instagram",
+
+
+"texpg": "Ang SaveInsta ay ang iyong go-to web tool sa ",
+"link1": "i-download ang larawan sa Instagram",
+"txtg1": " ay isang libreng tool upang ",
+"texpg1sec": " Ang aming IGTV Downloader ay isang Mabilis na paraan upang",
+         "toptext": "SaveInsta, isang Instagram photo downloader ay ginagawang simple upang i-save at i-back up ang iyong mga paboritong larawan sa Instagram. Upang mag-download ng mga larawan sa Instagram Ang Saveinsta ay pinakamahusay at mabilis",
+         "link2": "instagram photo downloader",
+         "toptext2": "Pinapayagan ng IG photo downloader ang mga user na mag-save ng mga larawan sa instagram mula sa Instagram nang walang anumang kahirapan. Maaari kang mag-download ng larawan sa instagram din ng isang post na larawan ngunit mag-download din ng maramihang mga larawan sa Instagram.",
+
+         "faqtop": "SaveInsta Instagram Photo Downloader",
+         "howto": "Paano mag-download ng mga larawan sa Instagram gamit ang SaveInsta ?",
+"howtonote": "Tandaan: ",
+         "how2note": "Ang larawan sa Instagram, na iyong ida-download ay dapat mula sa isang pampublikong Instagram account.",
+
+"howto1": "Kopyahin ang link ng Larawan",
+         "step1": "Pumunta sa Instagram Photo post na naglalaman ng iyong paboritong larawan at kopyahin ang link sa post na iyon",
+
+"howto2": "Buksan ang SaveInsta",
+"step2": "I-paste ang kinopyang link sa Saveinsta - Instagram Photo downloader text box sa itaas.",
+"stdown": "Simulan ang pag-download",
+
+"howto3": "I-download ang IG Photo",
+         "step3": "Awtomatikong isi-synchronize ang larawan. Mag-click sa button na I-download upang i-download ang Instagram Photo.",
+
+
+
+
+
+  "faq": {
+    "title": "Madalas Itanong",
+    "questions": [
+      {
+        "question": "Paano i-download ang mga larawan sa Instagram sa gallery?",
+        "answer": "Sagot: Ang pag-download ng gallery ng mga larawan sa instagram nang sabay ay parehong proseso sa pag-download ng isang solong larawan gamit ang tool na ito ng Insta Pic Saver. I-kopya lamang ang link ng gallery at i-paste dito at i-click ang i-download at tapos na."
+      },
+      {
+        "question": "Paano i-save ang larawan sa Instagram?",
+        "answer": "Sagot: Upang i-download ang larawan ng Instagram, buksan ang larawan, kopyahin ang link >> bisitahin ang <a href='https://saveinsta.li/photo/' style='color: blue;'>Instagram Photo Downloader </a> >> i-paste ang link sa search box >> i-click ang button na i-download."
+      },
+      {
+        "question": "Paano i-download ang DP ng Instagram?",
+        "answer": "Sagot: Para sa pag-download ng DP ng Instagram, maaaring gamitin ng mga gumagamit ang tool na <a href='https://saveinsta.li/profile/' style='color: blue;'>Instagram DP Downloader </a> kung saan kailangan mong i-paste ang link ng profile o username upang i-download."
+      }
+    ]
+  },
+  "conclusion": "hi"
+},
+
+
+
+
+
+
+
+"profile": {
+     "title": "SaveInsta - Instagram Profile Picture, DP Downloader at Insta DP Viewer",
+    "description": "Ang Instagram DP Downloader o insta DP viewer ay isang online na tool ng saveinsta.li na tumutulong sa mga user na i-download o tingnan ang DP ng Instagram user nang hindi nagpapakilala.",
+    
+"heading": "Instagram Profile Picture Downloader",
+    "highlight": "I-download at tingnan ang mga larawan sa profile ng Instagram nang madali",
+
+"igprotitle": "Instagram DP Download Online",
+"secProfile": "I-download ang Instagram Profile Picture gamit ang SaveInsra na libre at mabilis na online na tool. 100% libreng pinakamahusay na Instagram Profile downloader. Maaari mong i-download ang anumang profile na gusto mo, pribado o pampubliko, sa pamamagitan lamang ng pagkopya ng URL o pag-type ng pangalan ng user. Gamitin ito web tool upang tingnan at i-download ang mga larawan sa Profile.",
+    "secProfile2": "Ang layunin ng SaveInsta Downloader ay lalo na upang i-download ang Instagram Profile Picute. Ang SaveInsta ay Simple at user-friendly, tumutulong upang i-save ang Instagram profile picture. Ang Instagram profile downloader ay nagbibigay-daan sa iyo na mag-download ng mga larawan sa Profile mula sa Instagram sa mataas na kalidad na resolution online at i-save ang mga ito para sa offline na paggamit.",
+    
+
+"heading1": "SaveInsta - PINAKAMAHUSAY NA INSTAGRAM PROFILE PICTURE DOWNLOADER TOOL",
+"txtg": "Ang SaveInsta ay isang libre, all-in-one para sa pag-download",
+"pglink": "Larawan sa Profile ng Instagram.",
+"txtg1": "Pinapayagan ka ng SaveInsta na ",
+     "pg1link": "I-download ang Instagram Profile",
+"texpg2": "Mga larawan nang mabilis at maginhawa sa ilang pag-click.",
+     "txtg3": "SaveInsta,",
+"pg3link": "instagram profile downloader",
+"texpg4": "Pinapasimple ng isang Instagram Profile downloader na i-save ang iyong mga paboritong larawan sa Instagram Profile. Upang mag-download ng mga larawan sa Instagram Profile Saveinsta ay pinakamahusay at mabilis",
+"toptext2": "Pinapayagan ng Instagram Dp Viewer at Downloader ang mga user na mag-save ng mga larawan sa profile ng instagram mula sa Instagram nang walang anumang kahirapan.",
+
+"faqtop": "SaveInsta Instagram Profile Picture Downloader",
+     "howto": "Paano mag-download ng Instagram Profile gamit ang SaveInsta ?",
+
+"howto1": "Kopyahin ang link ng Profile o Username",
+     "step1": "Pumunta sa Instagram Profile at kopyahin ang link o Username",
+
+"howto2": "Buksan ang SaveInsta",
+"step2": "I-paste ang kinopyang link sa Saveinsta - Instagram Profile downloader text box sa itaas.",
+"stdown": "Simulan ang Dwonloading",
+
+"howto3": "I-download ang IG Profile o DP",
+"step3": "Awtomatikong isi-synchronize ang Profile o DP Photo. Mag-click sa button na I-download upang i-download ang Instagram Profile Picture.",
+
+
+
+
+  "faq": {
+    "title": "Madalas Itanong",
+    "questions": [
+      {
+        "question": "Paano tingnan ang larawan ng profile sa Instagram, nang hindi nagpapakilala?",
+        "answer": "Sagot: Kung nais mong tingnan ang larawan ng profile ng sinuman o i-download ito nang hindi nagpapakilala, maaari kang gumamit ng tool na ito na Instagram DP Viewer para i-download o tingnan ito."
+      },
+      {
+        "question": "Paano i-download ang larawan ng profile sa Instagram ng pribadong account?",
+        "answer": "Sagot: Kung ang isang Instagram profile o account ay naka-set sa pribado, hindi ka maaaring mag-download o magtingin sa profile, karaniwan. Ngunit ang mga term ay iba para sa <a href='https://saveinsta.li/profile/' style='color: blue;'>saveinsta.li's Profile</a> downloader dahil dito pinapayagan namin ang mga gumagamit na tingnan o i-download ang anumang DP ng Instagram account na may orihinal na kalidad."
+      },
+      {
+        "question": "Maaari ko bang gamitin ang Instagram DP Viewer na ito sa iPhone?",
+        "answer": "Sagot: Oo naman, ang tool na ito ay para sa lahat kahit Android user o IOS user pa ito. Ang kailangan lamang ay ang username ng profile o link ng profile upang i-download ito, at ito ay para sa bawat user ng device."
+      },
+      {
+        "question": "Paano i-optimize ang profile sa Instagram?",
+        "answer": "Sagot: Upang i-optimize ang iyong profile sa Instagram, dapat mong idagdag ang isang mas magandang DP na may kaugnayan na BIO upang madaling makipag-ugnayan sa iyo ang mga gumagamit. Alamin din ang tungkol sa <a href='https://saveinsta.li/blog/how-to-create-an-instagram-account-pro-customized-profile' style='color: blue;'>paano lumikha ng Instagram account pro customize.</a>"
+      }
+    ]
+  },
+  "conclusion": "hi"
+},
+
+
+
+
+
+
+
+
+  
+
+
+"audio": {
+  "title": "Instagram Audio Downloader - I-convert ang Reels sa MP3",
+  "description": "Ang Instagram Audio Downloader mula sa saveinsta.li ay isang pangwakas na web tool na tumutulong sa iyo na i-convert ang video at reels ng Instagram sa audio sa ilang segundo lamang.",
+  
+  "highlight": "Instagram Audio Download",
+  
+  
+  
+  "intro": "Ang Instagram Audio Downloader mula sa saveinsta.li ay isang pangwakas na web tool na tumutulong sa iyo na i-convert ang video at reels ng Instagram sa audio sa ilang segundo lamang. Ang mga gumagamit ay maaaring mag-download ng Instagram Reels, Video, IGTV sa format ng audio gamit ang tool na ito para sa pag-download ng audio ng Instagram Reels. Naghahanap ka ba ng isang web tool na tumutulong sa pag-transform ng <a href='https://www.instagram.com/' style='color: blue;'>Instagram</a> Videos sa kanta, Pagkatapos, ang tool na ito ang tamang pagpipilian. Dito maaari mong i-convert ang anumang mga video ng Instagram sa musika gamit lamang ang link ng video. I-download ang audio ng Instagram kasama ang link ng video o Reels sa 320kbps at 192kbps, mataas na kalidad. Ang tool na ito ng Instagram sa Mp3, ay ang solusyon sa pag-iisa para sa pag-convert ng Insta Reels sa Mp3.",
+ 
+  "highQuality":"Taas na Kalidad na Pag-download",
+  "phighQuality":"Ito ang pangwakas na pagpipilian para sa pag-download at pag-convert ng anumang video ng Instagram sa audio sa 320kbps & 192kbps na mataas na kalidad.",
+  
+  "friendly":"Mababang Interpasyo sa User",
+  "phfriendly":"Ang tool ng Instagram Audio Downloader mula sa saveinsta.li ay ngayon ang pinakamabilis, at ito ay nag-aalok ng serbisyo nito sa napaka-mababang interpasyo sa mga gumagamit na maaaring madaling ma-access gamit ang kanilang browser ng device.",
+  
+  "required":"Walang Kinakailangang Sign-Up",
+  "prequired":"I-download ang Audio ng Instagram kasama ang link ng video, at upang ma-access ito ay kailangan lamang ang browser ng device, walang kinakailangang anumang sign-up.",
+  
+  "compatible":"Kompatibol",
+  "pcompatible":"Ang tool ng <a href='https://saveinsta.li/audio/' style='color: blue;'>Instagram Audio Download</a> mula sa saveinsta.li ay kompatibol sa anumang device, kahit na ito ay Android o IOS, at gayundin kung ito ay Mac o Windows.",
+  
+  "howtouse":"Paano Gamitin ang Instagram Audio Upang I-convert sa Mp3",
+  "phowtouse":"Ito ay isang napaka-kompatibol na online web tool upang i-download ang anumang mga video ng Instagram sa musika sa tulong ng link. Maaaring mag-access ang mga gumagamit sa tool na ito gamit ang anumang uri ng device, ang lahat ng mga gumagamit ay kailangang gawin lamang ay dalhin ang link ng mga video ng Instagram dito at i-convert sa tunog.",
+  
+  "1step":"Buksan ang Instagram Reels >> mag-click sa pindutan ng ibahagi >> mag-click para kopyahin ang link.",
+  "2step":"Pagkatapos, bisitahin ang Instagram Audio Download ng saveinsta.li gamit ang anumang browser ng device.",
+  "3step":"Ngayon ilagay ang link ng video o Reels sa search box at mag-click para i-download.",
+  "4step":"Kaya dito magsisimula ang pag-download sa loob lamang ng isang segundo.",
+  
+  "faq": {
+    "title": "Madalas Itanong na mga Tanong",
+    "questions": [
+      {
+        "question": "Paano i-download ang audio mula sa Instagram?",
+        "answer": "Sagot: Upang i-download ang Audio ng Instagram, bisitahin lamang ang <a href='https://saveinsta.li/audio/' style='color: blue;'>Instagram Audio Download</a> tool ng <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a> pagkatapos ilagay ang iyong link ng Instagram Reels sa search box at mag-click para i-download at tapos na."
+      },
+      {
+        "question": "Q: Paano Mag-download ng Instagram Reels?",
+        "answer": "Sagot: Sagot: I-kopya lamang ang link ng reel na nais mong i-download, pagkatapos bisitahin ang <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a> sa iyong browser at lumipat sa reel downloader. Ngayon ilagay ang link sa search box pagkatapos mag-click para simulan at mag-click para sa pindutan ng download."
+      },
+      {
+        "question": "Ang Insta Audio Downloader ba na ito ay available para sa iPhone?",
+        "answer": "Sagot: Ang tool na ibinahagi namin dito para sa pag-download ng audio ng <a href='https://www.instagram.com/' style='color: blue;'>Instagram</a> ay hindi para sa anumang partikular na device o browser. Sa maikli, maaari mo siyang gamitin sa iyong iPhone upang i-download ang Insta Audio."
+      },
+      {
+        "question": "Paano palakihin ang iyong Instagram Reels?",
+        "answer": "Sagot: Upang palakihin ang iyong Instagram Reels, una mong dapat malaman ang tungkol sa <a href='https://saveinsta.li/blog/know-all-about-instagram-algorithm' style='color: blue;'>Instagram algorithm upang gawing rank ang iyong Reels</a>."
+      }
+    ]
+  },
+  "conclusion": "hi."
+}
+
+}
