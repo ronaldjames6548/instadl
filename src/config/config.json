@@ -1,0 +1,48 @@
+{
+  "site": {
+    "title": "Saveinsta - Download Instagram Video, Photo, Story & Reels",
+    "base_url": "https://saveinsta.li",
+    "base_path": "/",
+    "trailing_slash": true,
+    "favicon": "favicon.ico",
+    "logo": "/images/logo.png",
+    "logo_darkmode": "/images/logo.png",
+    "logo_width": "150",
+    "logo_height": "30",
+    "logo_text": "SaveInsta"
+  },
+
+
+  "settings": {
+    "search": true,
+    "sticky_header": true,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 2,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "© 2024 SaveInsta - All rights reserved."
+  },
+
+  "navigation_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": ""
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  },
+
+  "metadata": {
+    "meta_author": "SaveInsta",
+    "meta_image": "/images/logo.png",
+    "meta_description": "Saveinsta is Instagram Downloader, Download Instagram Video, Reels, Photo, Stories. Instagram photo download IGTV Online Downloader, download Instagram story to save from Instagram."
+  }
+}

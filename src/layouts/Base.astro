@@ -1,0 +1,203 @@
+---
+import TwSizeIndicator from "@/components/TwSizeIndicator.astro";
+import config from "@/config/config.json";
+import theme from "@/config/theme.json";
+import { plainify } from "@/lib/utils/textConverter";
+import Footer from "@/partials/Footer.astro";
+import Header from "@/partials/Header.astro";
+import "@/styles/main.scss";
+import { ViewTransitions } from "astro:transitions";
+import SearchModal from "./helpers/SearchModal";
+import { HeadHrefLangs } from "astro-i18next/components";
+import i18next from "i18next";
+
+declare global {
+  interface Window {
+    adsbygoogle: any;
+  }
+}
+// font families
+const pf = theme.fonts.font_family.primary;
+const sf = theme.fonts.font_family.secondary;
+
+// types for frontmatters
+export interface Props {
+  title?: string;
+  meta_title?: string;
+  description?: string;
+  image?: string;
+  noindex?: boolean;
+  canonical?: string;
+}
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+// const url = canonicalURL.pathname.replace(/\/$/, "");
+const url = Astro.url.pathname.replace("/", "");
+const query = Astro.url.searchParams as URLSearchParams;
+// console.log(urlPath, url);
+// distructure frontmatters
+const { title, meta_title, description, image, noindex, canonical } =
+  Astro.props;
+---
+
+<!doctype html>
+<html lang={i18next.language} data-theme="light">
+  <head>
+    <HeadHrefLangs />
+    <link rel="icon" href="/images/favicon.ico" />
+    <meta name="theme-name" content="instadl" />
+    <meta name="msapplication-TileColor" content="#000000" />
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fff"/>
+    <meta name="theme-color" media="(prefers-color-scheme: dark)"  content="#000"/>
+    <meta name="generator" content={Astro.generator} />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+    <meta name="google-site-verification" content="1EYzh8uUymXYuPQYcNzlJha4gIizu_EXG2wirUeoo6w" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"/>
+
+    
+    <title>{plainify(meta_title ? meta_title : title ? title : config.site.title)}</title>
+
+   
+    <link rel="canonical" href={canonical} item-prop="url" />
+
+
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1" />
+   
+    <meta name="description" content={plainify(description ? description : config.metadata.meta_description,)}/>
+    <ViewTransitions />
+   
+    <meta name="author" content={config.metadata.meta_author} />
+
+    <meta property="og:title" content={plainify(meta_title ? meta_title : title ? title : config.site.title,)}/>
+
+    <meta property="og:description" content={plainify(description ? description : config.metadata.meta_description,)}/>
+    <meta property="og:type" content="website" />
+    <meta property="og:url"  content={`${config.site.base_url}/${Astro.url.pathname.replace("/", "")}`} />
+
+    <meta name="twitter:title" content={plainify(meta_title ? meta_title : title ? title : config.site.title,)}/>
+
+    <meta name="twitter:description" content={plainify(description ? description : config.metadata.meta_description,)}/>
+
+    <meta property="og:image" content={`${config.site.base_url}${image ? image : config.metadata.meta_image}`} />
+    <meta name="twitter:image" content={`${config.site.base_url}${image ? image : config.metadata.meta_image}`}/>
+    <meta name="twitter:card" content="summary_large_image" />
+</head>
+
+  <body>
+    <dialog id="my_modal_3" class="grid modal">
+      <div class="modal-box">
+        <form method="dialog">
+          <button class="absolute btn btn-sm btn-circle btn-ghost right-2 top-2">✕</button>
+          <p class="text-center">Thank you! See you again soon. 🌟</p>
+          <div>
+            
+          </div>
+        </form>
+      </div>
+    </dialog>
+    <TwSizeIndicator />
+    <Header />
+    <div class="grid w-full max-w-full place-items-center">
+
+
+   </div>
+    <SearchModal client:load />
+
+    <main id="main-content">
+      <slot />
+    </main>
+
+    <Footer />
+  </body>
+</html>
+<style is:global>
+  @media (min-width: 768px) {
+    .app-box .app-box__info {
+      text-align: left;
+    }
+  }
+  .app-link {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .app-box .app-box__info {
+    text-align: center;
+  }
+  @media (min-width: 768px) {
+    .app-box {
+      flex-direction: row;
+      justify-content: space-between;
+      padding: 20px 24px;
+      gap: 64px;
+      margin-top: 84px;
+    }
+  }
+  .app-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 16px;
+    gap: 16px;
+    background: linear-gradient(167.7deg, #e6e2f4 0, #f4e2ed 100.38%);
+    border-radius: 12px;
+    margin-top: 28px;
+  }
+  .btn-accordion {
+    background: linear-gradient(90deg, #a982ba 0, #e27855 100%);
+  }
+  .hero-tools {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    /* padding: 0; */
+    background: rgba(255, 255, 255, 0.24);
+    border-radius: 8px;
+    width: 100%;
+  }
+  .downloader {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    padding: 24px 16px 60px;
+    gap: 15px;
+    color: #000;
+    background: linear-gradient(318deg, #0348dd 2.03%, #8142f5 48.63%, #ee4dd4 96.22%);
+  }
+  li {
+    list-style: none !important;
+  }
+  .hero-tools .tool-item:first-child {
+    border-left: none;
+  }
+  @media (min-width: 768px) {
+    .hero-tools .tool-item {
+      width: auto;
+      padding-left: 24px;
+      padding-right: 24px;
+    }
+  }
+  .hero-tools .tool-item {
+    flex-direction: row;
+    padding: 8px;
+    gap: 8px;
+    width: 100%;
+    border-left: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  .flex-center {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  @media (min-width: 768px) {
+    .downloader .hero-heading {
+      margin-top: 0.5rem;
+    }
+  }
+  .downloader .hero-heading {
+    text-align: center;
+  }
+
+</style>

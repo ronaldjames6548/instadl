@@ -1,0 +1,30 @@
+---
+import { localizePath } from "astro-i18next";
+import IndexHome from "@/layouts/ScreensReact";
+const { heading } = Astro.props;
+---
+
+<div class="downloader">
+
+<div class="flex items-center justify-around max-w-xl px-1 py-3 m-auto text-sm font-semibold text-black hero-tools">
+
+
+
+
+
+
+<a class="flex items-center gap-1 font-medium text-gray-900 dark:text-gray-100" href={localizePath("/")}><span class="text-white hover:text-fuchsia-100 dark:hover:text-fuchsia-200 justify-center"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5"> <path stroke-linecap="round" stroke-linejoin="round" d="m15.75 10.5 4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z"></path> </svg></span><span class="text-white hidden md:block">Video</span></a>
+<a class="flex items-center gap-1 font-medium text-gray-900 dark:text-gray-100" href={localizePath("/instagram-photo-download")}><span class="text-white hover:text-fuchsia-100 dark:hover:text-fuchsia-200 justify-center"><svg xmlns="http://www.w3.org/2000/svg" width="1.25rem" height="1.25rem" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-image "><rect width="18" height="18" x="3" y="3" rx="2" ry="2"></rect><circle cx="9" cy="9" r="2"></circle><path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"></path></svg></span><span class="text-white hidden md:block">Photo</span></a>
+<a class="flex items-center gap-1 font-medium text-gray-900 dark:text-gray-100" href={localizePath("/instagram-story-download")}><span class="text-white hover:text-fuchsia-100 dark:hover:text-fuchsia-200 justify-center"><svg xmlns="http://www.w3.org/2000/svg" width="1.25rem" height="1.25rem" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-play "><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg></span><span class="text-white hidden md:block">Story</span></a>
+<a class="flex items-center gap-1 font-medium text-gray-900 dark:text-gray-100" href={localizePath("/instagram-reels-video-download")}><span class="text-white hover:text-fuchsia-100 dark:hover:text-fuchsia-200 justify-center"><svg xmlns="http://www.w3.org/2000/svg" width="1.25rem" height="1.25rem" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-film "><rect width="18" height="18" x="3" y="3" rx="2"></rect><path d="M7 3v18"></path><path d="M3 7.5h4"></path><path d="M3 12h18"></path><path d="M3 16.5h4"></path><path d="M17 3v18"></path><path d="M17 7.5h4"></path><path d="M17 16.5h4"></path></svg></span><span class="text-white hidden md:block">Reel</span></a>
+<a class="flex items-center gap-1 font-medium text-gray-900 dark:text-gray-100" href={localizePath("/instagram-profile-downloader")}><span class="text-white hover:text-fuchsia-100 dark:hover:text-fuchsia-200 justify-center"><svg xmlns="http://www.w3.org/2000/svg" width="1.25rem" height="1.25rem" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-user-round "><circle cx="12" cy="8" r="5"></circle><path d="M20 21a8 8 0 0 0-16 0"></path></svg></span><span class="text-white hidden md:block">Profile</span></a>
+</div>
+
+<div class="heading-item main-heading text-center"> 
+<h1 class="title text-white text-3xl font-semibold font-sans">Instagram Video Download</h1><br>
+<h2 class="sub text-white text-lg font-normal">Download Video Instagram, Photo, Reels, Stories, IGTV online</h2>
+</div> 
+
+  <IndexHome client:only />
+</div>
+

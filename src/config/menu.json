@@ -1,0 +1,49 @@
+{
+  "main": [
+    {
+      "name": "Video Downloader",
+      "url": "/"
+    },
+    {
+      "name": "Story Downloader",
+      "url": "/instagram-story-download"
+    },
+    {
+      "name": "Photo Downloader",
+      "url": "/instagram-photo-download"
+    },
+    
+    {
+      "name": "Reels Downloader",
+      "url": "/instagram-reels-video-download",
+      "hasChildren": false,
+      "children": [
+        {
+          "name": "Contact",
+          "url": "/contact"
+        },
+        {
+          "name": "Disclaimer",
+          "url": "/disclaimer"
+        },
+        {
+          "name": "Blog",
+          "url": "/blog"
+        }
+
+      ]
+    }
+   
+   
+  ],
+  "footer": [
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    }
+  ]
+}
