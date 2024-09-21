@@ -73,7 +73,7 @@ export default function IndexHome() {
    <div className="w-full mx-auto">
       <div className="flex items-center py-1">
         <label className="sr-only">Search</label>
-          <form onSubmit={handleSubmit} className="w-full flex items-center max-w-lg mx-auto">
+          <form onSubmit={handleSubmit} className="w-full flex items-center max-w-4xl mx-auto">
 
    <div class="relative w-full">
 
