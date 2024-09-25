@@ -56,74 +56,104 @@ export const prerender = true;
 
 
  
- 
-<div class="max-w-3xl max-md:max-w-xl mx-auto p-4 font-[sans-serif]">
-      <h2 class="text-gray-800 text-3xl font-extrabold text-center">{t("top.howto")}</h2>
-      <div class="mt-16 space-y-10">
-        <div class="grid md:grid-cols-2 gap-14">
-          <div>
-	<svg width="48px" height="48" class="mb-6 bg-gray-100 p-2 rounded-md" viewBox="-0.5 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-		<g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.4"></g><g id="SVGRepo_iconCarrier"> 
-		<path d="M22 11.8201C22 9.84228 21.4135 7.90885 20.3147 6.26436C19.2159 4.61987 17.6542 3.33813 15.8269 2.58126C13.9996 1.82438 11.9889 1.62637 10.0491 2.01223C8.10927 2.39808 6.32748 3.35052 4.92896 4.74904C3.53043 6.14757 2.578 7.92935 2.19214 9.86916C1.80629 11.809 2.00436 13.8197 2.76123 15.6469C3.51811 17.4742 4.79985 19.036 6.44434 20.1348C8.08883 21.2336 10.0222 21.8201 12 21.8201" stroke="#000000" stroke-width="0.775" stroke-linecap="round" stroke-linejoin="round"></path> 
-		<path d="M2 11.8201H22" stroke="#000000" stroke-width="0.775" stroke-linecap="round" stroke-linejoin="round"></path> 
-		<path d="M12 21.8201C10.07 21.8201 8.5 17.3401 8.5 11.8201C8.5 6.30007 10.07 1.82007 12 1.82007C13.93 1.82007 15.5 6.30007 15.5 11.8201" stroke="#000000" stroke-width="0.775" stroke-linecap="round" stroke-linejoin="round"></path> 
-		<path d="M18.3691 21.6901C20.3021 21.6901 21.8691 20.1231 21.8691 18.1901C21.8691 16.2571 20.3021 14.6901 18.3691 14.6901C16.4361 14.6901 14.8691 16.2571 14.8691 18.1901C14.8691 20.1231 16.4361 21.6901 18.3691 21.6901Z" stroke="#000000" stroke-width="0.775" stroke-linecap="round" stroke-linejoin="round"></path> 
-		<path d="M22.9998 22.8202L20.8398 20.6702" stroke="#000000" stroke-width="0.775" stroke-linecap="round" stroke-linejoin="round"></path> </g>
-	</svg>
+<ol class="grid gap-8 md:grid-cols-3 p-6">
+    <li class="relative bg-gray-50 rounded-xl">
+        <div class="p-6 space-y-4">
+            <div class="block w-10 h-10 mx-auto -mt-12 rounded-full ring-8 ring-white">
+                <div class="w-10 h-10 rounded-full shadow-sm">
+                    <div
+                        class="flex items-center justify-center w-10 h-10 text-lg font-bold bg-white rounded-full shadow-lg text-primary-600 tabular-nums">
+                        1
+                    </div>
+                </div>
+            </div>
 
-            <h3 class="text-gray-800 text-xl font-semibold mb-3">{t("videos.howtouse")}</h3>
-            <p class="text-gray-600 text-sm leading-relaxed">{t("videos.1step")}</p>
-          </div>
+            <div class="space-y-1">
+                <h3 class="text-xl font-bold tracking-tight md:text-2xl">Create a server</h3>
 
-          <div class="h-[130px]">
-            <img src="/images/step1-link.webp" class="w-full h-full object-cover rounded-xl" />
-          </div>
+                <p class="text-gray-600">
+                    Select any of these server providers, or use your own.
+                </p>
+            </div>
+
+
+            <hr class="border-gray-200 border-dashed">
+
+            <ul class="space-y-1 font-medium text-gray-500">
+                <li>UpCloud</li>
+                <li>Digital Ocean</li>
+                <li>Linode</li>
+                <li>AWS EC2</li>
+                <li>...</li>
+            </ul>
         </div>
+    </li>
 
-        <div class="grid md:grid-cols-2 gap-14">
-          <div>
-            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="w-10 mb-6 bg-gray-100 p-2 rounded-md" viewBox="0 0 682.667 682.667">
-              <defs>
-                <clipPath id="a" clipPathUnits="userSpaceOnUse">
-                  <path d="M0 512h512V0H0Z" data-original="#000000" />
-                </clipPath>
-              </defs>
-              <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="40" clip-path="url(#a)" transform="matrix(1.33 0 0 -1.33 0 682.667)">
-                <path d="M256 492 60 410.623v-98.925C60 183.674 137.469 68.38 256 20c118.53 48.38 196 163.674 196 291.698v98.925z" data-original="#000000" />
-                <path d="M178 271.894 233.894 216 334 316.105" data-original="#000000" />
-              </g>
-            </svg>
-            <h3 class="text-gray-800 text-xl font-semibold mb-3">Security</h3>
-            <p class="text-gray-600 text-sm leading-relaxed">Qui elit labore in nisi dolore tempor anim laboris ipsum ad ad consequat id. Dolore et sint mollit in nisi tempor culpa consectetur.</p>
-          </div>
+    <li class="relative bg-gray-50 rounded-xl">
+        <div class="p-6 space-y-4">
+            <div class="block w-10 h-10 mx-auto -mt-12 rounded-full ring-8 ring-white">
+                <div class="w-10 h-10 rounded-full shadow-sm">
+                    <div
+                        class="flex items-center justify-center w-10 h-10 text-lg font-bold bg-white rounded-full shadow-lg text-primary-600 tabular-nums">
+                        2
+                    </div>
+                </div>
+            </div>
 
-          <div class="h-[130px]">
-            <img src="/images/saveinsta-image.webp" class="w-full h-full object-cover rounded-xl" />
-          </div>
+            <div class="space-y-1">
+                <h3 class="text-xl font-bold tracking-tight md:text-2xl">Connect GIT repository</h3>
+
+                <p class="text-gray-600">
+                    Connect your GIT repository and let Ploi handle the rest.
+                </p>
+            </div>
+
+
+            <hr class="border-gray-200 border-dashed">
+
+            <ul class="space-y-1 font-medium text-gray-500">
+                <li>laravel/laravel</li>
+                <li>statamic/statamic</li>
+                <li>...</li>
+            </ul>
         </div>
+    </li>
 
-        <div class="grid md:grid-cols-2 gap-14">
-          <div>
-            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="w-10 mb-6 bg-gray-100 p-2 rounded-md" viewBox="0 0 24 24">
-              <g fill-rule="evenodd" clip-rule="evenodd">
-                <path d="M17.03 8.97a.75.75 0 0 1 0 1.06l-4.2 4.2a.75.75 0 0 1-1.154-.114l-1.093-1.639L8.03 15.03a.75.75 0 0 1-1.06-1.06l3.2-3.2a.75.75 0 0 1 1.154.114l1.093 1.639L15.97 8.97a.75.75 0 0 1 1.06 0z" data-original="#000000" />
-                <path d="M13.75 9.5a.75.75 0 0 1 .75-.75h2a.75.75 0 0 1 .75.75v2a.75.75 0 0 1-1.5 0v-1.25H14.5a.75.75 0 0 1-.75-.75z" data-original="#000000" />
-                <path d="M3.095 3.095C4.429 1.76 6.426 1.25 9 1.25h6c2.574 0 4.57.51 5.905 1.845C22.24 4.429 22.75 6.426 22.75 9v6c0 2.574-.51 4.57-1.845 5.905C19.571 22.24 17.574 22.75 15 22.75H9c-2.574 0-4.57-.51-5.905-1.845C1.76 19.571 1.25 17.574 1.25 15V9c0-2.574.51-4.57 1.845-5.905zm1.06 1.06C3.24 5.071 2.75 6.574 2.75 9v6c0 2.426.49 3.93 1.405 4.845.916.915 2.419 1.405 4.845 1.405h6c2.426 0 3.93-.49 4.845-1.405.915-.916 1.405-2.419 1.405-4.845V9c0-2.426-.49-3.93-1.405-4.845C18.929 3.24 17.426 2.75 15 2.75H9c-2.426 0-3.93.49-4.845 1.405z" data-original="#000000" />
-              </g>
-            </svg>
-            <h3 class="text-gray-800 text-xl font-semibold mb-3">Performance</h3>
-            <p class="text-gray-600 text-sm leading-relaxed">Qui elit labore in nisi dolore tempor anim laboris ipsum ad ad consequat id. Dolore et sint mollit in nisi tempor culpa consectetur.</p>
-          </div>
+    <li class="relative bg-gray-50 rounded-xl">
+        <div class="p-6 space-y-4">
+            <div class="block w-10 h-10 mx-auto -mt-12 rounded-full ring-8 ring-white">
+                <div class="w-10 h-10 rounded-full shadow-sm">
+                    <div
+                        class="flex items-center justify-center w-10 h-10 text-lg font-bold bg-white rounded-full shadow-lg text-primary-600 tabular-nums">
+                        3
+                    </div>
+                </div>
+            </div>
 
-          <div class="h-[230px]">
-            <img src="https://readymadeui.com/Imagination.webp" class="w-full h-full object-cover rounded-xl" />
-          </div>
+            <div class="space-y-1">
+                <h3 class="text-xl font-bold tracking-tight md:text-2xl">Deploy your application
+                </h3>
+
+                <p class="text-gray-600">
+                    Click, deploy and sit back ☕️
+                </p>
+            </div>
+
+
+            <hr class="border-gray-200 border-dashed">
+
+            <ul class="flex flex-col w-full p-4 space-y-1 font-mono text-sm font-medium text-white bg-gray-800 rounded">
+                <li>Mon, Apr 26, 2021 11:47 AM</li>
+                <li>10 files changed, 13004 insertions(+), 22 deletions(-)</li>
+                <li>...</li>
+                <li>🚀 Application deployed!</li>
+            </ul>
         </div>
-      </div>
-    </div>
+    </li>
+</ol>
 
 
-                <a href="#"
+<a href="#"
                     class="text-xs text-indigo-600 font-medium hover:text-gray-900 transition duration-500 ease-in-out">
                     #Election
                 </a>,
