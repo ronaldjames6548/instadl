@@ -156,21 +156,7 @@ export const prerender = true;
 
 
 
-
-
-
-
-			<div class="lg:col-7 md:col-9 mb-8 text-center">
-				<h1 class="text-center" style="font-size:1.75rem; font-weight:500">{t("videos.title")}</h1>
-				<p class="mb-8 text-lg" style="font-size:1rem; font-weight:normal">{t("videos.support")}</p> 
-			</div>
-
-
-
-
 </div>
-
-
 
 
 
@@ -179,8 +165,9 @@ export const prerender = true;
   <div class="mx-auto w-full max-w-7xl px-5 py-16 md:px-10 md:py-20">
     <!-- Component -->
     <div class="mx-auto flex max-w-xl flex-col items-center justify-center px-6 text-center lg:max-w-3xl lg:px-10">
-      <h2 class="mx-auto text-center font-bold text-black text-3xl lg:text-5xl"> Frequently Asked Questions </h2>
-      <p class="font-inter mt-4 max-w-xl px-5 text-center text-base font-light text-gray-500 lg:max-w-lg"> Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna </p>
+
+      <h2 class="mx-auto text-center font-bold text-black text-2xl lg:text-4xl">{t("FAQs.title")}</h2>
+      <p class="font-inter mt-4 max-w-xl px-5 text-center text-base font-light text-gray-500 lg:max-w-lg">{t("FAQs.info")}</p>
     </div>
     <!-- FAQs -->
     <div class="mt-10 flex flex-col justify-between lg:flex-row lg:flex-wrap">
@@ -188,7 +175,7 @@ export const prerender = true;
       <div class="mx-4 flex max-w-3xl flex-col lg:shrink lg:grow lg:basis-96">
         <!-- FAQ BLOCK -->
         <div class="relative my-3 w-full rounded-md border border-gray-300 px-12 py-8">
-          <h2 class="font-bold text-black text-xl"> How this theme is different from others in market? </h2>
+          <h3 class="font-semibold text-black text-xl">{t("FAQs.question1")} </h3>
           <p class="font-inter mt-4 text-base font-light text-gray-500"> Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna </p>
           <a href="" class="absolute right-5 top-9">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
