@@ -7,11 +7,7 @@
     "faq": {
       "title": "Frequently asked questions",
       "questions": [
-        
-	      {
-          "info": "The information in this FAQ addresses common queries or worries regarding the fastdl.app downloader. Please use our contact page to send us an email if you are unable to find the answer to your query.",
-        },
-	      {
+        {
           "question": "How to download someone's Instagram story?",
           "answer": "Ans: Downloading someone's Instagram story is very simple, All you have to do is just copy the profile URL >> <a href='https://saveinsta.li/' style='color: blue;'>saveinsta.li</a> and paste the URL to search box >> Hit the download button, and it's done.</p>"
         },
